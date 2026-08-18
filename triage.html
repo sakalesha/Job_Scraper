@@ -1996,7 +1996,7 @@
     'dallas': [32.7767, -96.797], 'phoenix': [33.4484, -112.074],
     'anchorage': [61.2181, -149.9003], 'honolulu': [21.3069, -157.8583],
   };
-  const CA_CENTER = [37.4, -119.5];
+  const MAP_CENTER = [20.5937, 78.9629];
   const US_CENTROID = [39.5, -98.0];
   // Full US state names (USAJOBS uses these) → fall back to the US centroid
   // when no city matched, so federal roles don't pile onto California.
@@ -2027,7 +2027,7 @@
       return;
     }
     if (!_map) {
-      _map = L.map('map', { scrollWheelZoom: true }).setView(CA_CENTER, 6);
+      _map = L.map('map', { scrollWheelZoom: true }).setView(MAP_CENTER, 5);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 18, attribution: '© OpenStreetMap'
       }).addTo(_map);
@@ -2043,7 +2043,7 @@
       const c = geocodeJob(j.location);
       if (!c) { remoteCount++;
         const k = 'remote';
-        if (!buckets.has(k)) buckets.set(k, { lat: CA_CENTER[0], lng: CA_CENTER[1], remote: true, jobs: [] });
+        if (!buckets.has(k)) buckets.set(k, { lat: MAP_CENTER[0], lng: MAP_CENTER[1], remote: true, jobs: [] });
         buckets.get(k).jobs.push(j); return;
       }
       const k = c[0] + ',' + c[1];
@@ -2081,7 +2081,7 @@
       _map.fitBounds(pts, { padding: [34, 34], maxZoom: 9 });
       _lastFitKey = key;
     } else if (!pts.length) {
-      _map.setView(CA_CENTER, 5); _lastFitKey = '';
+      _map.setView(MAP_CENTER, 5); _lastFitKey = '';
     }
 
     note.hidden = false;
