@@ -564,7 +564,8 @@ def notify_new_jobs(new_jobs: list, source_label: str = ""):
     """Push the highly-relevant, not-yet-notified entries of new_jobs."""
     token = os.environ.get("PUSHOVER_TOKEN")
     user = os.environ.get("PUSHOVER_USER")
-    if not token or not user:
+    smtp_server = os.environ.get("SMTP_SERVER")
+    if not (token and user) and not smtp_server:
         return  # notifications disabled — no creds
 
     notified = _load_notified()
@@ -635,8 +636,9 @@ def send_weekly_digest(*, days: int | None = None, force: bool = False,
 
     token = os.environ.get("PUSHOVER_TOKEN")
     user = os.environ.get("PUSHOVER_USER")
-    if not token or not user:
-        print("Weekly digest skipped: PUSHOVER_TOKEN/PUSHOVER_USER are missing.")
+    smtp_server = os.environ.get("SMTP_SERVER")
+    if not (token and user) and not smtp_server:
+        print("Weekly digest skipped: Pushover and SMTP secrets are missing.")
         return False
 
     ok = send_pushover(
@@ -658,17 +660,16 @@ def send_weekly_digest(*, days: int | None = None, force: bool = False,
 
 
 def send_test() -> bool:
-    """Send a single test push to verify the Pushover setup end-to-end.
+    """Send a single test push to verify the notification setup end-to-end.
     Returns True on success. Prints a clear diagnosis on failure."""
     token = os.environ.get("PUSHOVER_TOKEN")
     user = os.environ.get("PUSHOVER_USER")
+    smtp_server = os.environ.get("SMTP_SERVER")
     print(f"PUSHOVER_TOKEN: {'(set)' if token else '(MISSING)'}")
     print(f"PUSHOVER_USER:  {'(set)' if user else '(MISSING)'}")
-    if not token or not user:
-        print("\n❌ Both PUSHOVER_TOKEN and PUSHOVER_USER must be set.\n"
-              "   • Locally:  PUSHOVER_TOKEN=… PUSHOVER_USER=… python notify.py --test\n"
-              "   • On GitHub: add them as Actions secrets, then run the "
-              "'Test Pushover Notification' workflow.")
+    print(f"SMTP_SERVER:    {'(set)' if smtp_server else '(MISSING)'}")
+    if not (token and user) and not smtp_server:
+        print("\n❌ Notification credentials missing. You must set either Pushover or SMTP secrets.\n")
         return False
     ok = send_pushover(
         token, user,
