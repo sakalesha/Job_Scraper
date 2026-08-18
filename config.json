@@ -1,0 +1,356 @@
+{
+  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
+
+  "profile": {
+    "title": "Sakalesh Job Tracker",
+    "subtitle": "India · Bengaluru · Remote",
+    "emoji": "🧪"
+  },
+
+  "keywords": {
+    "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
+    "include": [
+        "software engineer intern",
+        "software engineering intern",
+        "software developer intern",
+        "software development intern",
+
+        "frontend engineer intern",
+        "frontend developer intern",
+        "front-end engineer intern",
+        "front-end developer intern",
+        "react developer intern",
+        "react engineer intern",
+        "web developer intern",
+
+        "backend engineer intern",
+        "backend developer intern",
+        "back-end engineer intern",
+        "back-end developer intern",
+        "java developer intern",
+        "java engineer intern",
+
+        "full stack engineer intern",
+        "full stack developer intern",
+        "full-stack engineer intern",
+        "full-stack developer intern",
+
+        "web development intern",
+        "application developer intern",
+        "application engineer intern"
+    ],
+    "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
+    "exclude": [
+        "senior",
+        "sr.",
+        "sr ",
+        "lead",
+        "staff",
+        "principal",
+        "manager",
+        "director",
+        "architect",
+        "5+ years",
+        "4+ years",
+        "3+ years",
+        "experienced professional"
+    ]
+  },
+
+  "search_terms": {
+    "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
+    "linkedin": [
+        "software engineer intern",
+        "software developer intern",
+        "software engineering intern",
+        "frontend developer intern",
+        "frontend engineer intern",
+        "react developer intern",
+        "backend developer intern",
+        "backend engineer intern",
+        "java developer intern",
+        "java engineer intern",
+        "full stack developer intern",
+        "full stack engineer intern",
+        "web developer intern"
+    ],
+    "indeed": [
+        "software engineer intern",
+        "software developer intern",
+        "frontend developer intern",
+        "backend developer intern",
+        "java developer intern",
+        "full stack developer intern"
+    ],
+    "glassdoor": [
+        "software engineer intern",
+        "software developer intern",
+        "frontend developer intern",
+        "backend developer intern",
+        "java developer intern",
+        "full stack developer intern"
+    ],
+
+    "ziprecruiter": [
+        "software engineer intern",
+        "software developer intern",
+        "frontend developer intern",
+        "backend developer intern",
+        "java developer intern",
+        "full stack developer intern"
+    ],
+
+    "google_jobs": [
+        "software engineer intern",
+        "software developer intern",
+        "frontend developer intern",
+        "backend developer intern",
+        "java developer intern",
+        "full stack developer intern"
+    ],
+
+    "hiring_cafe": [
+        "software engineer intern",
+        "software developer intern",
+        "frontend developer intern",
+        "backend developer intern",
+        "java developer intern",
+        "full stack developer intern"
+    ],
+
+    "workday": [
+        "software engineer intern",
+        "software developer intern",
+        "frontend engineer intern",
+        "backend engineer intern",
+        "java developer intern",
+        "full stack engineer intern"
+    ]
+  },
+
+  "locations": {
+    "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe currently uses its public US SEO route; locations.hiring_cafe is kept for compatibility. The map auto-fits to wherever the jobs are.",
+    "linkedin": [
+        {
+        "name": "Bengaluru",
+        "location": "Bengaluru, Karnataka, India",
+        "geoId": ""
+        },
+        {
+        "name": "India",
+        "location": "India",
+        "geoId": ""
+        }
+    ],
+
+    "indeed": [
+        {
+        "location": "Bengaluru, Karnataka",
+        "country": "India"
+        },
+        {
+        "location": "India",
+        "country": "India"
+        }
+    ],
+
+    "glassdoor": [
+        {
+        "location": "Bengaluru, Karnataka",
+        "country": "India"
+        },
+        {
+        "location": "India",
+        "country": "India"
+        }
+    ],
+
+    "ziprecruiter": [
+        {
+        "location": "India",
+        "country": "India"
+        }
+    ],
+
+    "google_jobs": [
+        {
+        "location": "Bengaluru, Karnataka, India",
+        "country": "India"
+        },
+        {
+        "location": "India",
+        "country": "India"
+        }
+    ],
+
+    "hiring_cafe": [
+        {
+        "location": "India"
+        }
+    ]
+  },
+
+  "location_filter": {
+    "_comment": "Case-insensitive substrings matched against a job's location text. Used to post-filter boards that don't support geo-scoping at the API level: the curated direct-ATS sweep, and NEOGOV/GovernmentJobs.com (a nationwide board). Keep this in sync with your locations.* entries above.",
+    "terms": [
+        "india",
+        "bengaluru",
+        "bangalore",
+        "karnataka",
+        "remote",
+        "work from home",
+        "hybrid"
+    ]
+  },
+
+  "google_jobs": {
+    "_comment": "Optional exact Google Jobs queries. Leave empty to auto-build queries such as '<term> jobs near <location> since yesterday' from search_terms.google_jobs and locations.google_jobs. If the free JobSpy path is blocked, set SERPAPI_API_KEY or OXYLABS_USERNAME/OXYLABS_PASSWORD as GitHub Actions secrets for an API fallback.",
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+
+  "jobspy": {
+    "_comment": "Optional. Prefer JOBSPY_PROXIES as a GitHub Actions secret/env var for private proxy credentials. Use only if JobSpy-backed boards are blocked.",
+    "proxies": [],
+    "user_agent": ""
+  },
+
+  "hiring_cafe": {
+    "_comment": "Uses HiringCafe's public SSR /jobs/<query> pages. max_pages caps SEO pagination per query; the public route currently defaults to United States.",
+    "max_pages": 3
+  },
+
+  "employers": {
+    "_priority_comment": "Optional. Companies worth a daily 'priority' digest even on a quiet day (case-insensitive substring match on the company name). Leave [] to disable.",
+    "priority": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Meta",
+        "Apple",
+        "Adobe",
+        "Oracle",
+        "Salesforce",
+        "IBM",
+        "Cisco",
+        "Intel",
+        "NVIDIA",
+        "Atlassian",
+        "Uber",
+        "Airbnb",
+        "Stripe",
+        "PayPal",
+        "Walmart Global Tech",
+        "JPMorgan Chase",
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Wells Fargo",
+        "Flipkart",
+        "Razorpay",
+        "PhonePe",
+        "Swiggy",
+        "Zomato",
+        "Meesho",
+        "CRED",
+        "Groww",
+        "Zepto",
+        "Myntra",
+        "Freshworks",
+        "Zoho",
+        "Postman",
+        "BrowserStack",
+        "Druva",
+        "Mindtickle",
+        "Chargebee",
+        "Couchbase",
+        "Thoughtworks",
+        "Accenture",
+        "Deloitte"
+    ],
+    "_exclude_comment": "Optional. Drop roles from these companies even if the title matches (case-insensitive substring). Used here to remove pharma/drug-development.",
+    "exclude": [
+      "pharmaceutical", "pharma ", "therapeutics", "biopharma", "biotech", "biologics", "biosciences",
+      "genomics", "oncolog", "biomedicine", "genentech", "gilead", "pfizer", "merck", "novartis", "abbvie",
+      "regeneron", "moderna", "biogen", "sanofi", "astrazeneca", "takeda", "biomarin", "alnylam", "incyte",
+      "exelixis", "neurocrine", "ionis", "denali", "acadia", "adarx", "genmab", "galapagos", "insitro",
+      "recursion", "cytokinetics", "vertex pharm", "bristol-myers", "bristol myers"
+    ]
+  },
+
+  "priority_topics": {
+    "_comment": "Optional. Roles touching these get a gold ★ + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
+    "terms": [
+        ["Java", "\\bjava\\b"],
+        ["React", "\\breact\\b|react\\.js|reactjs"],
+        ["Full Stack", "full[\\s-]?stack"],
+        ["Backend", "backend|back[\\s-]?end"],
+        ["Frontend", "frontend|front[\\s-]?end"],
+        ["REST APIs", "rest[\\s-]?api|restful|web api"],
+
+        ["Node.js", "node\\.?(js)?"],
+        ["Express.js", "express\\.?(js)?"],
+        ["FastAPI", "\\bfastapi\\b"],
+        ["Flask", "\\bflask\\b"],
+
+        ["Python", "\\bpython\\b"],
+        ["JavaScript", "\\bjavascript\\b"],
+        ["TypeScript", "\\btypescript\\b"],
+
+        ["SQL / Database", "\\bsql\\b|mysql|postgresql"],
+        ["MongoDB", "\\bmongodb\\b"],
+
+        ["HTML", "\\bhtml\\b"],
+        ["CSS", "\\bcss\\b"],
+        ["Tailwind CSS", "tailwind[\\s-]?css"],
+
+        ["Docker", "\\bdocker\\b"],
+        ["Git", "\\bgit\\b"],
+        ["GitHub", "\\bgithub\\b"],
+
+        ["Scikit-learn", "scikit[\\s-]?learn|sklearn"],
+        ["TensorFlow / Keras", "tensorflow|keras"],
+        ["Pandas", "\\bpandas\\b"],
+        ["NumPy", "\\bnumpy\\b"],
+
+        ["Cloud", "\\baws\\b|amazon web services|azure|gcp|google cloud"],
+        ["AI / ML", "\\bai\\b|artificial intelligence|machine learning|llm|generative ai"]
+    ]
+  },
+
+  "role_categories": {
+    "_comment": "Dashboard 'Role' filter buckets, applied top-to-bottom to each title. [name, regex] pairs.",
+    "terms": [
+        ["Software Engineering", "software engineer|software developer|software development|software engineering"],
+
+        ["Full Stack", "full[\\s-]?stack"],
+
+        ["Frontend", "frontend|front[\\s-]?end|react developer|react engineer|web developer"],
+
+        ["Backend", "backend|back[\\s-]?end|backend developer|backend engineer"],
+
+        ["Java", "\\bjava\\b|spring[\\s-]?boot|spring developer|java developer|java engineer"],
+
+        ["Python", "\\bpython\\b|python developer|python engineer"],
+
+        ["Web Development", "web developer|web development"],
+
+        ["AI", "data engineer|data analyst|machine learning|machine learning engineer|ai engineer|artificial intelligence"],
+
+        ["DevOps / Cloud", "devops|cloud engineer|site reliability|sre|platform engineer"],
+
+        ["Other Engineering", "developer|engineer"]
+    ]
+  },
+
+  "notify": {
+    "_comment": "Pushover phone alerts (optional; needs PUSHOVER_TOKEN/USER secrets). Notify when a new role is a priority-topic OR scores at/above min_fit.",
+    "min_fit": 50,
+    "weekly_digest": {
+      "_comment": "Optional weekly Pushover brief. Prefer enabling via the WEEKLY_DIGEST_PUSHOVER repository variable so forks stay quiet by default.",
+      "enabled": false,
+      "days": 7
+    }
+  }
+}
