@@ -1,7 +1,7 @@
 # 🟦 Indeed — Sakalesh Roles
-*Last updated: 2026-08-18 17:04 UTC*
+*Last updated: 2026-08-18 18:03 UTC*
 
-**9 new role(s)** since last run · 9 total in last 24h
+**8 new role(s)** since last run · 8 total in last 24h
 
 ### [Software Engineering Intern](https://in.indeed.com/viewjob?jk=4d3def8e5b7ee9a6) — Unknown
 - 📍 **Location:** DL, IN
@@ -44,12 +44,6 @@
 - 🕒 **Posted:** 2026-08-18
 
 ### [Full Stack Developer Intern](https://in.indeed.com/viewjob?jk=9bdd25145aae8ba9) — GaonGram tech private limited
-- 📍 **Location:** UP, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-18
-
-### [Web Developer Intern](https://in.indeed.com/viewjob?jk=12be4a43250ece34) — Unknown
 - 📍 **Location:** UP, IN
 - **Work mode:** On-site
 - **Job type:** fulltime
