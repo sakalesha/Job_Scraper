@@ -25,6 +25,8 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
+import smtplib
+from email.message import EmailMessage
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, "output")
@@ -529,6 +531,35 @@ def send_pushover(token: str, user: str, *, title: str, message: str,
         return False
 
 
+def send_email(*, title: str, message: str, url: str = "") -> bool:
+    smtp_server = os.environ.get("SMTP_SERVER")
+    smtp_port = os.environ.get("SMTP_PORT", "587")
+    smtp_username = os.environ.get("SMTP_USERNAME")
+    smtp_password = os.environ.get("SMTP_PASSWORD")
+    to_email = os.environ.get("TO_EMAIL")
+
+    if not all([smtp_server, smtp_username, smtp_password, to_email]):
+        return False
+
+    msg = EmailMessage()
+    body = message + f"\n\nURL: {url}" if url else message
+    msg.set_content(body)
+    msg["Subject"] = title
+    msg["From"] = smtp_username
+    msg["To"] = to_email
+
+    try:
+        server = smtplib.SMTP(smtp_server, int(smtp_port))
+        server.starttls()
+        server.login(smtp_username, smtp_password)
+        server.send_message(msg)
+        server.quit()
+        return True
+    except Exception as e:
+        print(f"  ⚠️  Email send failed: {e}")
+        return False
+
+
 def notify_new_jobs(new_jobs: list, source_label: str = ""):
     """Push the highly-relevant, not-yet-notified entries of new_jobs."""
     token = os.environ.get("PUSHOVER_TOKEN")
@@ -569,13 +600,20 @@ def notify_new_jobs(new_jobs: list, source_label: str = ""):
             url=job.get("url", ""), url_title="Open posting",
             priority=1 if stars else 0,   # priority topics ping with high priority
         )
+        send_email(
+            title=f"🧪 {job.get('title', 'New role')}",
+            message=msg,
+            url=job.get("url", "")
+        )
         sent += 1
 
     extra = len(picks) - sent
     if extra > 0:
         send_pushover(token, user, title="🧪 More relevant roles",
                       message=f"+{extra} more relevant new role(s) — open the dashboard.")
-    print(f"  📲 Pushover: notified {sent} relevant role(s)"
+        send_email(title="🧪 More relevant roles",
+                   message=f"+{extra} more relevant new role(s) — open the dashboard.")
+    print(f"  📲 Pushover/Email: notified {sent} relevant role(s)"
           + (f" (+{extra} summarized)" if extra else ""))
     _save_notified(notified)
 
@@ -610,8 +648,13 @@ def send_weekly_digest(*, days: int | None = None, force: bool = False,
         url_title="Open dashboard",
         priority=0,
     )
-    print("Weekly digest sent." if ok else "Weekly digest send failed.")
-    return ok
+    email_ok = send_email(title=title, message=message, url=url)
+    
+    if ok or email_ok:
+        print("Weekly digest sent.")
+        return True
+    print("Weekly digest send failed.")
+    return False
 
 
 def send_test() -> bool:
@@ -637,9 +680,20 @@ def send_test() -> bool:
         url_title="Open dashboard",
         priority=0,
     )
-    print("\n✅ Test notification sent — check your phone." if ok
-          else "\n❌ Send failed (see the error above — usually a wrong token or user key).")
-    return ok
+    email_ok = send_email(
+        title="🧪 Job_Scraper — test notification",
+        message=("Email is wired up correctly. You'll get pings like this for "
+                 "highly-relevant new roles: microplastics, ecotoxicology, "
+                 "endocrine-disrupting chemicals, R/Shiny, or a high resume-fit score."),
+        url=DASHBOARD_URL
+    )
+    
+    if ok or email_ok:
+        print("\n✅ Test notification sent — check your phone/email.")
+        return True
+    
+    print("\n❌ Send failed (see the error above — usually a wrong token or user key).")
+    return False
 
 
 if __name__ == "__main__":
