@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 21:18 UTC",
-  "total": 47,
-  "new_count": 0,
+  "scraped_at": "2026-08-18 22:16 UTC",
+  "total": 49,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Point72",
@@ -15,6 +15,20 @@
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Schneider Electric",
+      "title": "Software Engineer Intern",
+      "location": "Andover, Massachusetts, United States",
+      "url": "https://careers.se.com/jobs/131307?lang=en-us",
+      "direct_url": "https://careers.se.com/jobs/131307?lang=en-us",
+      "date_posted": "2026-08-18T15:47:20.000Z",
+      "description": "Current bachelor's student in a relevant engineering or computer science field with Java, JavaScript, or C experience; Linux, Git, bash, Excel, networking fundamentals, and U.S. work authorization required.",
+      "salary": "$47k–$56k/yr",
+      "job_type": "Internship, Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -99,20 +113,6 @@
       "job_type": "Internship, Temporary",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Roblox",
-      "title": "[Summer 2027] Software Engineer Intern",
-      "location": "San Mateo, California, United States",
-      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-      "direct_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-      "date_posted": "2026-08-05T16:03:16.000Z",
-      "description": "Pursuing an undergraduate or graduate degree in computer science, engineering, or a related field; proficiency in at least one listed programming language; collaborative and eager to learn.",
-      "salary": "$129k/yr",
-      "job_type": "Full Time, Internship",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -309,6 +309,20 @@
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Roblox",
+      "title": "[Summer 2027] Software Engineer Intern",
+      "location": "San Mateo, California, United States",
+      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+      "direct_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+      "date_posted": "2026-08-05T16:03:16.000Z",
+      "description": "Pursuing an undergraduate or graduate degree in computer science, engineering, or a related field; proficiency in at least one listed programming language; collaborative and eager to learn.",
+      "salary": "$129k/yr",
+      "job_type": "Full Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -606,6 +620,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Foundation Finance Company, LLC",
+      "title": "Full Stack Developer Intern",
+      "location": "Rothschild, Wisconsin, United States",
+      "url": "https://careers.foundationfinance.com/jobs/2097?lang=en-us",
+      "direct_url": "https://careers.foundationfinance.com/jobs/2097?lang=en-us",
+      "date_posted": "2026-08-18T18:59:26.000Z",
+      "description": "Currently pursuing or recently completed technical training, or equivalent software development experience. Preferred exposure to web development, programming, databases, APIs, version control, testing, and frameworks.",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Full Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Gesture US, Inc.",
       "title": "Full Stack Engineer Intern",
       "location": "Denver, Colorado, United States",
@@ -662,5 +690,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Schneider Electric",
+      "title": "Software Engineer Intern",
+      "location": "Andover, Massachusetts, United States",
+      "url": "https://careers.se.com/jobs/131307?lang=en-us",
+      "direct_url": "https://careers.se.com/jobs/131307?lang=en-us",
+      "date_posted": "2026-08-18T15:47:20.000Z",
+      "description": "Current bachelor's student in a relevant engineering or computer science field with Java, JavaScript, or C experience; Linux, Git, bash, Excel, networking fundamentals, and U.S. work authorization required.",
+      "salary": "$47k–$56k/yr",
+      "job_type": "Internship, Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Foundation Finance Company, LLC",
+      "title": "Full Stack Developer Intern",
+      "location": "Rothschild, Wisconsin, United States",
+      "url": "https://careers.foundationfinance.com/jobs/2097?lang=en-us",
+      "direct_url": "https://careers.foundationfinance.com/jobs/2097?lang=en-us",
+      "date_posted": "2026-08-18T18:59:26.000Z",
+      "description": "Currently pursuing or recently completed technical training, or equivalent software development experience. Preferred exposure to web development, programming, databases, APIs, version control, testing, and frameworks.",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Full Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
