@@ -1,0 +1,23 @@
+name: Test Email Notification
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Send test email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "Test Job_Scraper Notification"
+          body: "This is a test alert to confirm your email setup."
+          to: ${{ secrets.TO_EMAIL }}
+          from: ${{ secrets.SMTP_USERNAME }}
