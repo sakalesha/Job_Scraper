@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-18 19:23 UTC",
-  "total": 46,
+  "scraped_at": "2026-08-18 20:17 UTC",
+  "total": 47,
   "new_count": 1,
   "jobs": [
     {
@@ -116,6 +116,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Atoms",
+      "title": "Software Engineer Intern - Winter 2027",
+      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "date_posted": "2026-08-06T20:53:44.000Z",
+      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
+      "salary": "$146k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Oklahoma City Thunder",
       "title": "Software Engineer Intern / Basketball Operations",
       "location": "Oklahoma City, Oklahoma, United States",
@@ -132,11 +146,11 @@
     {
       "company": "Leonardo DRS, Inc.",
       "title": "Embedded Software Engineer Intern",
-      "location": "Bridgeton, Missouri, United States",
+      "location": "Bridgeton or St. Louis",
       "url": "https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1416974200/",
       "direct_url": "https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1416974200/",
       "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "High school diploma or GED and current junior-level or above enrollment in a bachelor's program in computer science, computer engineering, mathematics, physics, or equivalent; strong analytical, communication, and interpersonal skills.",
+      "description": "High school diploma or GED and current junior-level or above enrollment in a bachelor's program; basic knowledge of C, C++, C#, Java, Python, git, operating systems, and Microsoft Office.",
       "salary": "$41k–$53k/yr",
       "job_type": "Internship",
       "is_remote": false,
@@ -284,14 +298,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Atoms",
-      "title": "Software Engineer Intern - Winter 2027",
-      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "date_posted": "2026-08-06T20:53:44.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
-      "salary": "$146k/yr",
+      "company": "IMC",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://www.imc.com/us/careers/jobs/4823924101",
+      "direct_url": "https://www.imc.com/us/careers/jobs/4823924101",
+      "date_posted": "2026-08-10T06:34:58.000Z",
+      "description": "Current university student graduating September 2027–July 2028 in computer science, engineering, or related technology; algorithms, data structures, and programming proficiency required.",
+      "salary": "$200k/yr",
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -650,14 +664,14 @@
   ],
   "new_jobs": [
     {
-      "company": "ATOMS",
+      "company": "IMC",
       "title": "Software Engineer Intern - Summer 2027",
-      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "date_posted": "2026-08-06T20:35:21.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or related field; minimum 3.7 GPA, introductory computer science coursework, and advanced programming experience.",
-      "salary": "$146k/yr",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://www.imc.com/us/careers/jobs/4823924101",
+      "direct_url": "https://www.imc.com/us/careers/jobs/4823924101",
+      "date_posted": "2026-08-10T06:34:58.000Z",
+      "description": "Current university student graduating September 2027–July 2028 in computer science, engineering, or related technology; algorithms, data structures, and programming proficiency required.",
+      "salary": "$200k/yr",
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
