@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 20:17 UTC",
+  "scraped_at": "2026-08-18 21:18 UTC",
   "total": 47,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Point72",
@@ -662,20 +662,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "IMC",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://www.imc.com/us/careers/jobs/4823924101",
-      "direct_url": "https://www.imc.com/us/careers/jobs/4823924101",
-      "date_posted": "2026-08-10T06:34:58.000Z",
-      "description": "Current university student graduating September 2027–July 2028 in computer science, engineering, or related technology; algorithms, data structures, and programming proficiency required.",
-      "salary": "$200k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
