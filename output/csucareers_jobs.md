@@ -1,5 +1,5 @@
-# 🎓 CSU Careers — California State University Environmental / Toxicology Roles
-*Last updated: 2026-08-17 16:57 UTC*
+# 🎓 CSU Careers — California State University Sakalesh Roles
+*Last updated: 2026-08-18 17:01 UTC*
 
 **0 new role(s)** since last run · 0 total in current CSU Careers postings
 
