@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 19:09 UTC",
+  "scraped_at": "2026-08-18 19:16 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Marzelet Info Technology Pvt Ltd",
@@ -148,24 +148,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Marzelet Info Technology Pvt Ltd",
-      "title": "Full Stack Developer Interns",
-      "location": "TN, IN",
-      "url": "https://in.indeed.com/viewjob?jk=9c244e627d75a302",
-      "direct_url": "http://in.indeed.com/job/full-stack-developer-interns-9c244e627d75a302",
-      "company_url": "https://in.indeed.com/cmp/Marzelet-Info-Technology-Pvt-Ltd",
-      "date_posted": "2026-08-18",
-      "description": "We are looking for passionate Full Stack Developer Interns who want to build enterprise SaaS applications using modern technologies and gain real\\-world software development experience.\n\nAs a Full Stack Developer Intern, you will work on both frontend and backend development, building modern, secure, and scalable web applications. You will collaborate with UI/UX designers, backend developers, AI engineers, and QA engineers to develop enterprise\\-grade SaaS products using modern technologies.\n\nYour responsibilities will include developing responsive user interfaces with **Next.js, React, TypeScript, and Tailwind CSS**, building RESTful APIs using **Python, Django, and Django REST Framework (DRF)**, designing and optimizing **PostgreSQL** databases, integrating frontend and backend services, implementing authentication and role\\-based access control, fixing bugs, improving application performance, and participating in Agile sprint planning and code reviews.\n\nDuring the internship, you will gain practical experience with enterprise software architecture, cloud\\-based application development, API integration, AI\\-powered features, Git version control, testing, deployment, and modern software engineering best practices.\n\nThis internship is ideal for students and recent graduates who are passionate about web development and want to build real\\-world software products while learning from experienced professionals. Outstanding performers will have the opportunity to be considered for a full\\-time Software Developer position upon successful completion of the internship.\n\nJob Responsibilities\n\n* Develop responsive web applications using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.\n* Build secure REST APIs using **Python**, **Django**, and **Django REST Framework (DRF)**.\n* Design, optimize, and maintain **PostgreSQL** databases.\n* Integrate frontend applications with backend APIs.\n* Implement authentication, authorization, and role\\-based access control.\n* Debug, test, and optimize application performance.\n* Collaborate with UI/UX designers, backend developers, AI engineers, and QA teams.\n* Participate in Agile sprint planning, daily stand\\-ups, and code reviews.\n* Write clean, maintainable, and well\\-documented code.\n\nRequired Skills\n\n* Basic knowledge of HTML5, CSS3, and JavaScript\n* React.js or Next.js fundamentals\n* Python programming\n* Django or Django REST Framework (DRF)\n* SQL/PostgreSQL basics\n* REST API concepts\n* Git \\& GitHub\n* Object\\-Oriented Programming (OOP)\n* Strong analytical and problem\\-solving skills\n* Good communication and teamwork\n\nPreferred Skills\n\n* TypeScript\n* Tailwind CSS\n* Redis\n* Docker\n* JWT Authentication\n* Linux Basics\n* AI API Integration\n* Cloud deployment fundamentals\n\nEligibility\n\n* BE/B.Tech (Computer Science, Information Technology, AI \\& Data Science, Software Engineering)\n* BCA / MCA\n* B.Sc / M.Sc (Computer Science or Information Technology)\n* Final\\-year students and recent graduates are encouraged to apply.\n\nTechnologies You'll Work With\n\n* Next.js\n* React\n* TypeScript\n* Tailwind CSS\n* Python\n* Django\n* Django REST Framework (DRF)\n* PostgreSQL\n* Redis\n* Git \\& GitHub\n* Docker\n* REST APIs\n* AI Integrations\n\nWhat You'll Gain\n\n* Hands\\-on experience with enterprise SaaS product development\n* Work on a live AI\\-powered software platform\n* Mentorship from experienced developers\n* Agile software development experience\n* Internship Completion Certificate\n* Letter of Recommendation (based on performance)\n* Opportunity for a full\\-time Software Engineer role after successful internship completion\n\nWorking Hours\n\n* Monday to Saturday\n* 9:30 AM – 6:30 PM\n\nWork Location\n\n**Marzelet Info Technology Pvt. Ltd.**  \nAvadi, Chennai, Tamil Nadu\n\n**Work Mode:** On\\-site\n\nHiring Process\n\n* Resume Screening\n* Technical Assessment\n* Technical Interview\n* HR Interview\n* Offer Letter\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
