@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19 02:19 UTC",
+  "scraped_at": "2026-08-19 03:41 UTC",
   "total": 49,
   "new_count": 0,
   "jobs": [
@@ -382,6 +382,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Impact.com",
+      "title": "Associate Software Engineer intern",
+      "location": "Santa Barbara, California, United States",
+      "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+      "direct_url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+      "date_posted": "2026-08-06T13:02:16.000Z",
+      "description": "Bachelor's degree in IT, computer science, or similar, or equivalent experience; 1+ year of Java and MySQL experience; Spring, REST APIs, JavaScript framework, cloud platform, and problem-solving skills.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Centerfield Media",
       "title": "Frontend Engineer Intern (6 month internship)",
       "location": "Los Angeles or Playa Vista",
@@ -558,20 +572,6 @@
       "date_posted": "2026-08-14T14:23:36.000Z",
       "description": "Knowledge of AI/ML, automation, microservices, containers, system engineering, programming, QA, DevOps, cloud infrastructure, and software lifecycle practices; familiarity with Java, C/C++, Python, Ansible, AWS, Docker, Kubernetes, Jenkins, JIRA, and JFrog.",
       "salary": "",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Impact.com",
-      "title": "Associate Software Engineer intern",
-      "location": "Santa Barbara, California, United States",
-      "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
-      "direct_url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
-      "date_posted": "2026-08-06T13:02:16.000Z",
-      "description": "Bachelor's degree in IT, computer science, or similar, or equivalent experience; 1+ year of Java and MySQL experience; Spring, REST APIs, JavaScript framework, cloud platform, and problem-solving skills.",
-      "salary": "$80k–$90k/yr",
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
