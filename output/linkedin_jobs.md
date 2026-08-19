@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Sakalesh Roles
-*Last updated: 2026-08-19 17:49 UTC*
+*Last updated: 2026-08-19 19:01 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Full Stack Developer Intern – MERN (Unpaid)](https://www.linkedin.com/jobs/view/4455423798/) — NoCapCode™
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-08-19
+
+### [Frontend Developer Intern | React.js | JavaScript | HTML | CSS](https://www.linkedin.com/jobs/view/4455442757/) — Wake Up Whistle
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-08-19
