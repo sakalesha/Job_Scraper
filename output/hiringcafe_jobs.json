@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 19:20 UTC",
-  "total": 47,
-  "new_count": 1,
+  "scraped_at": "2026-08-19 20:20 UTC",
+  "total": 48,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Point72",
@@ -130,20 +130,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ATOMS",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "date_posted": "2026-08-06T20:35:21.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or related field; minimum 3.7 GPA, introductory computer science coursework, and advanced programming experience.",
-      "salary": "$146k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Roblox",
       "title": "[Summer 2027] Software Engineer Intern",
       "location": "San Mateo, California, United States",
@@ -155,6 +141,20 @@
       "job_type": "Full Time, Internship",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ATOMS",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "date_posted": "2026-08-06T20:35:21.000Z",
+      "description": "Pursuing a bachelor's or master's in computer science, engineering, or related field; minimum 3.7 GPA, introductory computer science coursework, and advanced programming experience.",
+      "salary": "$146k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -321,6 +321,20 @@
       "description": "Currently enrolled in a bachelor's or master's program in software engineering, computer science, or a related field; strong analytical skills; Microsoft Office proficiency; U.S. citizenship or green card required.",
       "salary": "$48k/yr",
       "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Fooji, Inc.",
+      "title": "Software Engineering Intern",
+      "location": "Lexington, Kentucky, United States",
+      "url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
+      "direct_url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
+      "date_posted": "2026-08-19T14:17:57.101Z",
+      "description": "Student or recent graduate pursuing computer science or software engineering with 3.5+ GPA, JavaScript/TypeScript and SQL experience, Git/GitHub familiarity, and hands-on AI coding assistant experience.",
+      "salary": "",
+      "job_type": "Part Time, Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -508,6 +522,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Atoms",
+      "title": "Software Engineer Intern - Winter 2027",
+      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "date_posted": "2026-08-06T20:53:44.000Z",
+      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
+      "salary": "$146k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Ericsson",
       "title": "Software Developer Intern (787378)",
       "location": "Plano, Texas, United States",
@@ -634,20 +662,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Expatiate Communication, Inc.",
-      "title": "Web Developer Intern",
-      "location": "Pasadena, California, United States",
-      "url": "https://jobs.gusto.com/postings/expatiate-communication-inc-web-developer-intern-94cfa0ba-e7c1-46e4-8837-16391d19d20c",
-      "direct_url": "https://jobs.gusto.com/postings/expatiate-communication-inc-web-developer-intern-94cfa0ba-e7c1-46e4-8837-16391d19d20c",
-      "date_posted": "2026-07-21T19:54:05.200Z",
-      "description": "Pursuing or recently completed relevant degree; basic OOP and web fundamentals; familiarity with HTML/CSS/JavaScript; eagerness to learn full-stack, databases, version control, and cloud; Live Scan and TB clearance required.",
-      "salary": "",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Replit",
       "title": "Software Engineering Intern (Summer 2027)",
       "location": "Foster City, California, United States",
@@ -664,13 +678,27 @@
   ],
   "new_jobs": [
     {
-      "company": "ATOMS",
-      "title": "Software Engineer Intern - Summer 2027",
+      "company": "Fooji, Inc.",
+      "title": "Software Engineering Intern",
+      "location": "Lexington, Kentucky, United States",
+      "url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
+      "direct_url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
+      "date_posted": "2026-08-19T14:17:57.101Z",
+      "description": "Student or recent graduate pursuing computer science or software engineering with 3.5+ GPA, JavaScript/TypeScript and SQL experience, Git/GitHub familiarity, and hands-on AI coding assistant experience.",
+      "salary": "",
+      "job_type": "Part Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Atoms",
+      "title": "Software Engineer Intern - Winter 2027",
       "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "date_posted": "2026-08-06T20:35:21.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or related field; minimum 3.7 GPA, introductory computer science coursework, and advanced programming experience.",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "date_posted": "2026-08-06T20:53:44.000Z",
+      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
       "salary": "$146k/yr",
       "job_type": "Internship",
       "is_remote": false,
