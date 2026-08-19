@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 18:00 UTC",
-  "total": 7,
-  "new_count": 0,
+  "scraped_at": "2026-08-19 19:11 UTC",
+  "total": 8,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Reward360 Global Services Private Limited",
@@ -76,6 +76,42 @@
       "ats": "Indeed"
     },
     {
+      "company": "Unknown",
+      "title": "Full Stack Developer Intern",
+      "location": "Remote, IN",
+      "url": "https://in.indeed.com/viewjob?jk=9349300bfc79abdd",
+      "direct_url": "http://in.indeed.com/job/full-stack-developer-intern-9349300bfc79abdd",
+      "company_url": "https://in.indeed.comNone",
+      "date_posted": "2026-08-19",
+      "description": "Full Stack Developer Intern — Unpaid\n\nDuration: 3 MonthsType: InternshipStipend: Unpaid\n\nRole Overview\n\nWe are looking for a motivated Full Stack Developer Intern to join our development team and contribute to building and improving our mobile/web application and backend systems.\n\nResponsibilities\n\n* Develop and maintain frontend and backend features.\n* Build and integrate REST APIs.\n* Connect frontend/mobile applications with backend services.\n* Work with databases and manage application data.\n* Implement authentication and user management.\n* Develop features such as user profiles, posts, connections, messaging, and notifications.\n* Debug and fix frontend and backend issues.\n* Write clean, reusable, and maintainable code.\n* Use Git/GitHub for version control.\n* Collaborate with UI/UX designers, mobile developers, and backend developers.\n* Participate in testing, deployment, and performance improvements.\n\nRequired Skills\n\n* Basic understanding of frontend and backend development.\n* Knowledge of HTML, CSS, and JavaScript.\n* Experience with at least one frontend framework:\n* React.js\n* React Native\n* Flutter\n* Angular\n* Knowledge of at least one backend technology:\n* Node.js / Express.js\n* Python / Django / Flask / FastAPI\n* Java / Spring Boot\n* Understanding of REST APIs.\n* Basic knowledge of SQL or NoSQL databases.\n* Familiarity with Git and GitHub.\n* Basic understanding of authentication and authorization.\n* Good problem\\-solving and debugging skills.\n\nGood to Have\n\n* Experience with MongoDB, PostgreSQL, or MySQL.\n* Experience building full\\-stack projects.\n* Knowledge of Firebase or cloud platforms.\n* Familiarity with Docker.\n* Understanding of WebSockets/Socket.IO.\n* Knowledge of deployment and CI/CD.\n* A GitHub profile with relevant projects.\n\nWho Can Apply\n\n* Students, recent graduates, or self\\-taught developers.\n* Candidates with personal, academic, or open\\-source projects are encouraged to apply.\n* Candidates who are eager to learn and work on a real\\-world application.\n\nNote: This is an unpaid 3\\-month internship. The intern will get practical experience working on a real\\-world product and contribute to actual development projects.\n\nBenefits:\n\n* Flexible schedule\n* Work from home\n\nWork Location: Remote",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Unknown",
+      "title": "Backend Developer Intern",
+      "location": "Remote, IN",
+      "url": "https://in.indeed.com/viewjob?jk=60dc1b74776b0800",
+      "direct_url": "http://in.indeed.com/job/backend-developer-intern-60dc1b74776b0800",
+      "company_url": "https://in.indeed.comNone",
+      "date_posted": "2026-08-19",
+      "description": "Backend Developer Intern — Unpaid\n\nDuration: 3 MonthsType: InternshipStipend: Unpaid\n\nRole Overview\n\nWe are looking for a motivated Backend Developer Intern to join our development team and help build and improve the backend infrastructure for our mobile application.\n\nResponsibilities\n\n* Develop and maintain backend APIs and services.\n* Work with databases to store and manage application data.\n* Implement user authentication and authorization.\n* Build APIs for user profiles, posts, connections, messaging, and other app features.\n* Integrate frontend/mobile applications with backend APIs.\n* Debug issues and optimize backend performance.\n* Write clean, maintainable, and well\\-structured code.\n* Collaborate with mobile developers and UI/UX designers.\n* Participate in testing, debugging, and deployment.\n\nRequired Skills\n\n* Basic knowledge of backend development.\n* Proficiency in at least one backend language/framework:\n* Node.js / Express.js\n* Python / Django / Flask / FastAPI\n* Java / Spring Boot\n* Knowledge of REST APIs.\n* Understanding of SQL or NoSQL databases.\n* Basic knowledge of Git and GitHub.\n* Understanding of authentication and authorization.\n* Problem\\-solving and debugging skills.\n* Ability to work independently and collaborate with a team.\n\nGood to Have\n\n* Experience building backend projects or APIs.\n* Knowledge of MongoDB, PostgreSQL, or MySQL.\n* Experience with Firebase or cloud services.\n* Basic knowledge of Docker.\n* Understanding of API security.\n* Knowledge of real\\-time communication such as WebSockets/Socket.IO.\n\nWho Can Apply\n\n* Students, recent graduates, or self\\-taught developers.\n* Candidates with personal/college backend projects are encouraged to apply.\n* Candidates should be willing to learn and work on a real\\-world application.\n\nNote: This is an unpaid 3\\-month internship. Candidates will get practical experience working on a real\\-world mobile application and backend system.\n\nBenefits:\n\n* Flexible schedule\n* Work from home\n\nWork Location: Remote",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "internship",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
       "company": "IDCLE Tech LLP",
       "title": "Full Stack Developer Intern",
       "location": "MH, IN",
@@ -91,24 +127,6 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "LearniLM World",
-      "title": "Full Stack Developer Intern",
-      "location": "Remote, IN",
-      "url": "https://in.indeed.com/viewjob?jk=399fc2c2df7d5662",
-      "direct_url": "http://in.indeed.com/job/full-stack-developer-intern-399fc2c2df7d5662",
-      "company_url": "https://in.indeed.com/cmp/Learnilm-World",
-      "date_posted": "2026-08-19",
-      "description": "Role Overview:\n\nLearnilm World is looking for a motivated MERN Stack Developer to join our development team. The candidate will work on modern web applications and contribute to building scalable, user\\-friendly platforms.\n\nDetails:\n\n\\*Duration: 3 months\n\n\\*Mode: Remote\n\n\\*Stipend: Unpaid\n\nResponsibilities:\n\n\\*Develop and maintain web applications using the MERN stack\n\n\\*Build responsive and user\\-friendly interfaces\n\n\\*Collaborate with designers and backend developers\n\n\\*Integrate REST APIs and manage application state\n\nRequirements:\n\n\\*Strong understanding of MongoDB, Express.js, React.js, Node.js\n\n\\*Good knowledge of HTML, CSS, and JavaScript\n\n\\*Understanding of REST APIs and client\\-server architecture\n\n\\*Basic knowledge of Git and version control\n\nBenefits:\n\n\\*Hands\\-on experience with real\\-world projects\n\n\\*Collaborative development environment\n\n\\*Growth opportunities based on performance\n\nSend your CV to: suchintansinha@gmail.com\n\nWork Location: Remote",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "parttime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "suchintansinha@gmail.com",
       "ats": "Indeed"
     },
     {
@@ -130,5 +148,42 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Unknown",
+      "title": "Full Stack Developer Intern",
+      "location": "Remote, IN",
+      "url": "https://in.indeed.com/viewjob?jk=9349300bfc79abdd",
+      "direct_url": "http://in.indeed.com/job/full-stack-developer-intern-9349300bfc79abdd",
+      "company_url": "https://in.indeed.comNone",
+      "date_posted": "2026-08-19",
+      "description": "Full Stack Developer Intern — Unpaid\n\nDuration: 3 MonthsType: InternshipStipend: Unpaid\n\nRole Overview\n\nWe are looking for a motivated Full Stack Developer Intern to join our development team and contribute to building and improving our mobile/web application and backend systems.\n\nResponsibilities\n\n* Develop and maintain frontend and backend features.\n* Build and integrate REST APIs.\n* Connect frontend/mobile applications with backend services.\n* Work with databases and manage application data.\n* Implement authentication and user management.\n* Develop features such as user profiles, posts, connections, messaging, and notifications.\n* Debug and fix frontend and backend issues.\n* Write clean, reusable, and maintainable code.\n* Use Git/GitHub for version control.\n* Collaborate with UI/UX designers, mobile developers, and backend developers.\n* Participate in testing, deployment, and performance improvements.\n\nRequired Skills\n\n* Basic understanding of frontend and backend development.\n* Knowledge of HTML, CSS, and JavaScript.\n* Experience with at least one frontend framework:\n* React.js\n* React Native\n* Flutter\n* Angular\n* Knowledge of at least one backend technology:\n* Node.js / Express.js\n* Python / Django / Flask / FastAPI\n* Java / Spring Boot\n* Understanding of REST APIs.\n* Basic knowledge of SQL or NoSQL databases.\n* Familiarity with Git and GitHub.\n* Basic understanding of authentication and authorization.\n* Good problem\\-solving and debugging skills.\n\nGood to Have\n\n* Experience with MongoDB, PostgreSQL, or MySQL.\n* Experience building full\\-stack projects.\n* Knowledge of Firebase or cloud platforms.\n* Familiarity with Docker.\n* Understanding of WebSockets/Socket.IO.\n* Knowledge of deployment and CI/CD.\n* A GitHub profile with relevant projects.\n\nWho Can Apply\n\n* Students, recent graduates, or self\\-taught developers.\n* Candidates with personal, academic, or open\\-source projects are encouraged to apply.\n* Candidates who are eager to learn and work on a real\\-world application.\n\nNote: This is an unpaid 3\\-month internship. The intern will get practical experience working on a real\\-world product and contribute to actual development projects.\n\nBenefits:\n\n* Flexible schedule\n* Work from home\n\nWork Location: Remote",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Unknown",
+      "title": "Backend Developer Intern",
+      "location": "Remote, IN",
+      "url": "https://in.indeed.com/viewjob?jk=60dc1b74776b0800",
+      "direct_url": "http://in.indeed.com/job/backend-developer-intern-60dc1b74776b0800",
+      "company_url": "https://in.indeed.comNone",
+      "date_posted": "2026-08-19",
+      "description": "Backend Developer Intern — Unpaid\n\nDuration: 3 MonthsType: InternshipStipend: Unpaid\n\nRole Overview\n\nWe are looking for a motivated Backend Developer Intern to join our development team and help build and improve the backend infrastructure for our mobile application.\n\nResponsibilities\n\n* Develop and maintain backend APIs and services.\n* Work with databases to store and manage application data.\n* Implement user authentication and authorization.\n* Build APIs for user profiles, posts, connections, messaging, and other app features.\n* Integrate frontend/mobile applications with backend APIs.\n* Debug issues and optimize backend performance.\n* Write clean, maintainable, and well\\-structured code.\n* Collaborate with mobile developers and UI/UX designers.\n* Participate in testing, debugging, and deployment.\n\nRequired Skills\n\n* Basic knowledge of backend development.\n* Proficiency in at least one backend language/framework:\n* Node.js / Express.js\n* Python / Django / Flask / FastAPI\n* Java / Spring Boot\n* Knowledge of REST APIs.\n* Understanding of SQL or NoSQL databases.\n* Basic knowledge of Git and GitHub.\n* Understanding of authentication and authorization.\n* Problem\\-solving and debugging skills.\n* Ability to work independently and collaborate with a team.\n\nGood to Have\n\n* Experience building backend projects or APIs.\n* Knowledge of MongoDB, PostgreSQL, or MySQL.\n* Experience with Firebase or cloud services.\n* Basic knowledge of Docker.\n* Understanding of API security.\n* Knowledge of real\\-time communication such as WebSockets/Socket.IO.\n\nWho Can Apply\n\n* Students, recent graduates, or self\\-taught developers.\n* Candidates with personal/college backend projects are encouraged to apply.\n* Candidates should be willing to learn and work on a real\\-world application.\n\nNote: This is an unpaid 3\\-month internship. Candidates will get practical experience working on a real\\-world mobile application and backend system.\n\nBenefits:\n\n* Flexible schedule\n* Work from home\n\nWork Location: Remote",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "internship",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
