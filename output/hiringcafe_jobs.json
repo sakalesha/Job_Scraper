@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 00:55 UTC",
-  "total": 50,
-  "new_count": 4,
+  "scraped_at": "2026-08-19 02:19 UTC",
+  "total": 49,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Point72",
@@ -340,28 +340,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ITI Engineering",
-      "title": "Software Engineering Intern",
-      "location": "Winter Springs, Florida, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8bd854a2-487e-4cb7-8a54-aded80e03e26&ccId=19000101_000001&jobId=566155&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8bd854a2-487e-4cb7-8a54-aded80e03e26&ccId=19000101_000001&jobId=566155&lang=en_US",
-      "date_posted": "2026-08-12T12:34:00.000Z",
-      "description": "Currently enrolled in a bachelor's or master's program in software engineering, computer science, or a related field; strong analytical skills; Microsoft Office proficiency; U.S. citizenship or green card required.",
-      "salary": "$48k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "ATOMS",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "date_posted": "2026-08-06T20:35:21.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or related field; minimum 3.7 GPA, introductory computer science coursework, and advanced programming experience.",
-      "salary": "$146k/yr",
+      "company": "The Energy Authority",
+      "title": "Software Development Intern",
+      "location": "Jacksonville or Bellevue",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=09dede8a-c0c9-4db8-a7e5-418d9ef9deb1&ccId=19000101_000001&jobId=597293&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=09dede8a-c0c9-4db8-a7e5-418d9ef9deb1&ccId=19000101_000001&jobId=597293&lang=en_US",
+      "date_posted": "2026-08-18T20:17:00.000Z",
+      "description": "Currently pursuing a bachelor's degree in computer science, software engineering, or a related field; collaborative, eager to learn, and interested in application development and business technology.",
+      "salary": "",
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -704,62 +690,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Garda Capital Partners",
-      "title": "Software Engineer Intern ",
-      "location": "New York City, New York, United States",
-      "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
-      "direct_url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
-      "date_posted": "2026-08-18T20:01:53.000Z",
-      "description": "Pursuing a bachelor's or master's degree in computer science, engineering, mathematics, or quantitative finance; Python, SQL, programming fundamentals, and problem-solving skills required.",
-      "salary": "$50/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "RPM xConstruction, LLC",
-      "title": "SOFTWARE DEVELOPER INTERN",
-      "location": "McKinney, Texas, United States",
-      "url": "https://recruiting2.ultipro.com/rpm1002rpmc/JobBoard/6bb23de1-c593-4dc2-9486-e3263ad51836/OpportunityDetail?opportunityId=3b4886f8-94ae-49fc-a305-7c3273b4ad42",
-      "direct_url": "https://recruiting2.ultipro.com/rpm1002rpmc/JobBoard/6bb23de1-c593-4dc2-9486-e3263ad51836/OpportunityDetail?opportunityId=3b4886f8-94ae-49fc-a305-7c3273b4ad42",
-      "date_posted": "2026-08-18T18:56:52.935Z",
-      "description": "Currently pursuing a related degree, with programming fundamentals, application-building experience, strong communication skills, and preferably experience with LLMs, AI applications, web or mobile development, databases, SQL, enterprise IT, and GitHub.",
-      "salary": "",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Zipline",
-      "title": "Enterprise Systems Software Engineer Intern (Spring 2027)",
-      "location": "South San Francisco, California, United States",
-      "url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
-      "direct_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
-      "date_posted": "2026-08-18T18:33:19.000Z",
-      "description": "Software engineering internship requiring systems design, data modeling, stakeholder collaboration, operational reliability, and experience delivering measurable software impact. Regular on-site work and travel required.",
-      "salary": "$112k/yr",
-      "job_type": "Full Time, Internship, Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Foundation Finance Company, LLC",
-      "title": "Full Stack Developer Intern",
-      "location": "Rothschild, Wisconsin, United States",
-      "url": "https://careers.foundationfinance.com/jobs/2097?lang=en-us",
-      "direct_url": "https://careers.foundationfinance.com/jobs/2097?lang=en-us",
-      "date_posted": "2026-08-18T18:59:26.000Z",
-      "description": "Currently pursuing or recently completed technical training, or equivalent software development experience. Preferred exposure to web development, programming, databases, APIs, version control, testing, and frameworks.",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Full Time, Internship",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
