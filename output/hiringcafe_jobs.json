@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 21:19 UTC",
+  "scraped_at": "2026-08-19 22:18 UTC",
   "total": 47,
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Point72",
@@ -57,6 +57,20 @@
       "job_type": "Full Time, Internship, Temporary",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "International Business Machines Corporation",
+      "title": "Software Developer Intern 2027",
+      "location": "Poughkeepsie, New York, United States",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Intern-2027/129778",
+      "direct_url": "https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Intern-2027/129778",
+      "date_posted": "2026-08-19T12:00:00.000Z",
+      "description": "High school diploma/GED required; software development coursework or projects, programming experience, basic data structures and algorithms, Git familiarity, and strong analytical, problem-solving, and communication skills.",
+      "salary": "$76k–$139k/yr",
+      "job_type": "Internship, Contract",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -144,13 +158,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ATOMS",
-      "title": "Software Engineer Intern - Summer 2027",
+      "company": "Atoms",
+      "title": "Software Engineer Intern - Winter 2027",
       "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "date_posted": "2026-08-06T20:35:21.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or related field; minimum 3.7 GPA, introductory computer science coursework, and advanced programming experience.",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "date_posted": "2026-08-06T20:53:44.000Z",
+      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
       "salary": "$146k/yr",
       "job_type": "Internship",
       "is_remote": false,
@@ -242,20 +256,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "International Business Machines Corporation",
-      "title": "Software Developer Intern 2027",
-      "location": "Lowell or Durham or Bellevue or San Jose or Austin",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Intern-2027/128497",
-      "direct_url": "https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Intern-2027/128497",
-      "date_posted": "2026-08-11T12:00:00.000Z",
-      "description": "High school diploma or GED required; software development coursework or projects, programming experience, Git, data structures, debugging, and analytical, problem-solving, communication, and collaboration skills.",
-      "salary": "$76k–$166k/yr",
-      "job_type": "Internship, Temporary",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Haladir",
       "title": "Software Engineering Intern (Fall 2026)",
       "location": "San Francisco, California, United States",
@@ -312,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Fooji, Inc.",
-      "title": "Software Engineering Intern",
-      "location": "Lexington, Kentucky, United States",
-      "url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
-      "direct_url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
-      "date_posted": "2026-08-19T14:17:57.101Z",
-      "description": "Student or recent graduate pursuing computer science or software engineering with 3.5+ GPA, JavaScript/TypeScript and SQL experience, Git/GitHub familiarity, and hands-on AI coding assistant experience.",
-      "salary": "",
-      "job_type": "Part Time, Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "ITI Engineering",
       "title": "Software Engineering Intern",
       "location": "Winter Springs, Florida, United States",
@@ -335,6 +321,20 @@
       "description": "Currently enrolled in a bachelor's or master's program in software engineering, computer science, or a related field; strong analytical skills; Microsoft Office proficiency; U.S. citizenship or green card required.",
       "salary": "$48k/yr",
       "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Fooji, Inc.",
+      "title": "Software Engineering Intern",
+      "location": "Lexington, Kentucky, United States",
+      "url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
+      "direct_url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
+      "date_posted": "2026-08-19T14:17:57.101Z",
+      "description": "Student or recent graduate pursuing computer science or software engineering with 3.5+ GPA, JavaScript/TypeScript and SQL experience, Git/GitHub familiarity, and hands-on AI coding assistant experience.",
+      "salary": "",
+      "job_type": "Part Time, Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -662,5 +662,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "International Business Machines Corporation",
+      "title": "Software Developer Intern 2027",
+      "location": "Poughkeepsie, New York, United States",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Intern-2027/129778",
+      "direct_url": "https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Intern-2027/129778",
+      "date_posted": "2026-08-19T12:00:00.000Z",
+      "description": "High school diploma/GED required; software development coursework or projects, programming experience, basic data structures and algorithms, Git familiarity, and strong analytical, problem-solving, and communication skills.",
+      "salary": "$76k–$139k/yr",
+      "job_type": "Internship, Contract",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Atoms",
+      "title": "Software Engineer Intern - Winter 2027",
+      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "date_posted": "2026-08-06T20:53:44.000Z",
+      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
+      "salary": "$146k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
