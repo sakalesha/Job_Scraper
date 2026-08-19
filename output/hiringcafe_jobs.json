@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 04:31 UTC",
-  "total": 49,
-  "new_count": 0,
+  "scraped_at": "2026-08-19 17:21 UTC",
+  "total": 47,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Point72",
@@ -69,20 +69,6 @@
       "description": "Currently pursuing a bachelor's degree in computer engineering, software engineering, or a related field; experience with C/C++, Python, embedded and Linux platforms is developed through the internship.",
       "salary": "",
       "job_type": "Full Time, Internship, Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Textron Specialized Vehicles",
-      "title": "2027 Software Engineer Intern",
-      "location": "Augusta, Georgia, United States",
-      "url": "https://textron.taleo.net/careersection/private/jobdetail.ftl?job=343299&lang=en",
-      "direct_url": "https://textron.taleo.net/careersection/private/jobdetail.ftl?job=343299&lang=en",
-      "date_posted": "2026-08-13T01:16:44.175Z",
-      "description": "Pursuing a bachelor's degree in IT, engineering, or a related field; experience or knowledge of Java, C#, C/C++, SQL, HTML, or JavaScript preferred.",
-      "salary": "",
-      "job_type": "Internship, Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -158,6 +144,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "ATOMS",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "date_posted": "2026-08-06T20:35:21.000Z",
+      "description": "Pursuing a bachelor's or master's in computer science, engineering, or related field; minimum 3.7 GPA, introductory computer science coursework, and advanced programming experience.",
+      "salary": "$146k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Roblox",
       "title": "[Summer 2027] Software Engineer Intern",
       "location": "San Mateo, California, United States",
@@ -169,20 +169,6 @@
       "job_type": "Full Time, Internship",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Atoms",
-      "title": "Software Engineer Intern - Winter 2027",
-      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "date_posted": "2026-08-06T20:53:44.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
-      "salary": "$146k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -382,20 +368,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Impact.com",
-      "title": "Associate Software Engineer intern",
-      "location": "Santa Barbara, California, United States",
-      "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
-      "direct_url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
-      "date_posted": "2026-08-06T13:02:16.000Z",
-      "description": "Bachelor's degree in IT, computer science, or similar, or equivalent experience; 1+ year of Java and MySQL experience; Spring, REST APIs, JavaScript framework, cloud platform, and problem-solving skills.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Centerfield Media",
       "title": "Frontend Engineer Intern (6 month internship)",
       "location": "Los Angeles or Playa Vista",
@@ -522,20 +494,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "MTSI",
-      "title": "Software Engineering Intern",
-      "location": "Albuquerque, New Mexico, United States",
-      "url": "https://talent.mtsi-va.com/careers/job/1133915137908",
-      "direct_url": "https://talent.mtsi-va.com/careers/job/1133915137908",
-      "date_posted": "2026-08-11T15:18:48.000Z",
-      "description": "Enrolled in or recently graduated from a software-related program; foundational Python and backend knowledge; HTML5, CSS3, JavaScript/TypeScript, Figma, Git, and willingness to learn.",
-      "salary": "$44k–$50k/yr",
-      "job_type": "Internship, Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Quadrillion Labs",
       "title": "Software Engineering Intern (Summer 2027)",
       "location": "New York City, New York, United States",
@@ -572,6 +530,20 @@
       "date_posted": "2026-08-14T14:23:36.000Z",
       "description": "Knowledge of AI/ML, automation, microservices, containers, system engineering, programming, QA, DevOps, cloud infrastructure, and software lifecycle practices; familiarity with Java, C/C++, Python, Ansible, AWS, Docker, Kubernetes, Jenkins, JIRA, and JFrog.",
       "salary": "",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Impact.com",
+      "title": "Associate Software Engineer intern",
+      "location": "Santa Barbara, California, United States",
+      "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+      "direct_url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+      "date_posted": "2026-08-06T13:02:16.000Z",
+      "description": "Bachelor's degree in IT, computer science, or similar, or equivalent experience; 1+ year of Java and MySQL experience; Spring, REST APIs, JavaScript framework, cloud platform, and problem-solving skills.",
+      "salary": "$80k–$90k/yr",
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -690,5 +662,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "ATOMS",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "date_posted": "2026-08-06T20:35:21.000Z",
+      "description": "Pursuing a bachelor's or master's in computer science, engineering, or related field; minimum 3.7 GPA, introductory computer science coursework, and advanced programming experience.",
+      "salary": "$146k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }

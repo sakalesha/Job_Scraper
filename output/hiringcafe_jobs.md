@@ -1,6 +1,11 @@
 # ☕ HiringCafe — Sakalesh Roles
-*Last updated: 2026-08-19 04:31 UTC*
+*Last updated: 2026-08-19 17:21 UTC*
 
-**0 new role(s)** since last run · 49 total in last 30d
+**1 new role(s)** since last run · 47 total in last 30d
 
-No new roles since the last run.
+### [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) — ATOMS
+- 📍 **Location:** New York City or Seattle or Los Angeles or Mountain View or San Francisco
+- 💰 **Salary:** $146k/yr
+- **Work mode:** On-site
+- **Job type:** Internship
+- 🕒 **Posted:** 2026-08-06T20:35:21.000Z
