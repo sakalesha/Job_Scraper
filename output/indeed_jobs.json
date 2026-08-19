@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 22:02 UTC",
-  "total": 9,
-  "new_count": 0,
+  "scraped_at": "2026-08-19 23:02 UTC",
+  "total": 10,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Reward360 Global Services Private Limited",
@@ -18,6 +18,24 @@
       "job_type": "internship",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "betterworks",
+      "title": "Software Engineer Intern",
+      "location": "KA, IN",
+      "url": "https://in.indeed.com/viewjob?jk=4bdb1ed792c6e057",
+      "direct_url": "https://app.trinethire.com/companies/294644-betterworks-systems-inc/jobs/109745-software-engineer-intern",
+      "company_url": "https://in.indeed.com/cmp/Betterworks",
+      "date_posted": "2026-08-19",
+      "description": "* Bangalore, No. 6/12, Primrose Road, Gurappa Avenue, Bangalore, Karnataka, India.\n* **Category:** Engineering\n* **Type:** Intern\n* **Min. Experience:** Intern\n**About Betterworks**  \n\nBetterworks provides enterprise software to easily manage strategic plans, collaborative goals (OKRs), and ongoing performance conversations. Betterworks software helps high\\-performing companies get aligned, and execute more effectively.\n\nBetterworks' mission is to build solutions that help companies execute their strategic objectives through people engagement, performance enablement and decision analytics. We are working with some of the world’s leading brands like Walmart and Intuit to disrupt the business and talent management spaces with next\\-generation Strategic Execution and Performance Management solutions.\n\n\n**What You’ll Be Doing**  \n\n\n\nBetterworks is looking to hire a Software Engineer Intern in India. You will work with the best engineers in the software engineering industry, assisting them in building an enterprise class software system.  \n\n\n* Work on a project specifically scoped out to your internship tenure.\n* Write and test high quality software.\n* Perform regular day\\-to\\-day duties expected of this role \\- attending meetings on time, sharing progress reports, etc.\n\n  \n\n\n**What’ll Help You Be Successful**\n* Understanding of any one high level programming language \\- Python, Javascript or Typescript.\n* Solid computer science fundamentals \\- Operating Systems, Memory management, Object Oriented Programming, and APIs.\n* Demonstrable initiative \\- your personal Github account/project must show a keenness to succeed.\n* Keen interest in AI technologies \\- MCP, Agentic AI, LLMs, and use of AI tools in day to day work.\n* Highly disciplined and self\\-motivated.\n* Nice to have\n\t+ - Working experience in Docker, K8s, and cloud infrastructure.\n\t\t- Located in Bengaluru\n\n**What We All Do**\n\n\n* All employees share the responsibility of being aware of information security risks and adhering to information security policies and procedures.\n* All employees are required to participate in information security awareness and training programs.\n* All employees have a responsibility to handle data in accordance with data classification and handling guidelines. Employees should be aware of the sensitivity of the data they interact with and follow appropriate security measures.\n* All employees have a responsibility of reporting information security incidents in accordance with information security policies and procedures.\n\n**Life at Betterworks**\n\n\n\nAt Betterworks, we prioritize our people. We’re committed to creating a supportive, engaging, and growth\\-focused experience for all our interns:\n\n\n* Work closely with a cross functional team of highly motivated and intelligent folks with a unique range of startup and enterprise experience.\n* Vibrant company culture with frequent team building events.\n* Remote first work culture that allows you to work from anywhere in India and travel to meet as a team when possible.\n\n  \n\n\n\n\n**About Betterworks**  \n\n\n\nBetterworks® aligns, develops and activates your workforce for business growth. Through our easy\\-to\\-use, integrated software solutions and expertise, we help organizations replace outdated annual review processes with powerful Continuous Performance Management® programs that help managers be better at the conversations, coaching and development necessary to inspire and motivate the entire workforce to meet today's goals and be ready for tomorrow's challenges. Our solution supports truly global workforces, and is used daily by workers from more than 100 countries with localization support in more than 20 languages.  \n\n\n\nConnect with us on LinkedIn  \n\n\n*We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We are committed to inclusive and diverse betterworks. We believe that different perspectives lead to better ideas, and better ideas allow us to better understand the needs and interests of our diverse, global betterworks Community. We welcome people of different backgrounds, experiences, abilities and perspectives and are an equal opportunity employer.*",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "internship",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "emails": "",
       "ats": "Indeed"
     },
@@ -166,5 +184,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "betterworks",
+      "title": "Software Engineer Intern",
+      "location": "KA, IN",
+      "url": "https://in.indeed.com/viewjob?jk=4bdb1ed792c6e057",
+      "direct_url": "https://app.trinethire.com/companies/294644-betterworks-systems-inc/jobs/109745-software-engineer-intern",
+      "company_url": "https://in.indeed.com/cmp/Betterworks",
+      "date_posted": "2026-08-19",
+      "description": "* Bangalore, No. 6/12, Primrose Road, Gurappa Avenue, Bangalore, Karnataka, India.\n* **Category:** Engineering\n* **Type:** Intern\n* **Min. Experience:** Intern\n**About Betterworks**  \n\nBetterworks provides enterprise software to easily manage strategic plans, collaborative goals (OKRs), and ongoing performance conversations. Betterworks software helps high\\-performing companies get aligned, and execute more effectively.\n\nBetterworks' mission is to build solutions that help companies execute their strategic objectives through people engagement, performance enablement and decision analytics. We are working with some of the world’s leading brands like Walmart and Intuit to disrupt the business and talent management spaces with next\\-generation Strategic Execution and Performance Management solutions.\n\n\n**What You’ll Be Doing**  \n\n\n\nBetterworks is looking to hire a Software Engineer Intern in India. You will work with the best engineers in the software engineering industry, assisting them in building an enterprise class software system.  \n\n\n* Work on a project specifically scoped out to your internship tenure.\n* Write and test high quality software.\n* Perform regular day\\-to\\-day duties expected of this role \\- attending meetings on time, sharing progress reports, etc.\n\n  \n\n\n**What’ll Help You Be Successful**\n* Understanding of any one high level programming language \\- Python, Javascript or Typescript.\n* Solid computer science fundamentals \\- Operating Systems, Memory management, Object Oriented Programming, and APIs.\n* Demonstrable initiative \\- your personal Github account/project must show a keenness to succeed.\n* Keen interest in AI technologies \\- MCP, Agentic AI, LLMs, and use of AI tools in day to day work.\n* Highly disciplined and self\\-motivated.\n* Nice to have\n\t+ - Working experience in Docker, K8s, and cloud infrastructure.\n\t\t- Located in Bengaluru\n\n**What We All Do**\n\n\n* All employees share the responsibility of being aware of information security risks and adhering to information security policies and procedures.\n* All employees are required to participate in information security awareness and training programs.\n* All employees have a responsibility to handle data in accordance with data classification and handling guidelines. Employees should be aware of the sensitivity of the data they interact with and follow appropriate security measures.\n* All employees have a responsibility of reporting information security incidents in accordance with information security policies and procedures.\n\n**Life at Betterworks**\n\n\n\nAt Betterworks, we prioritize our people. We’re committed to creating a supportive, engaging, and growth\\-focused experience for all our interns:\n\n\n* Work closely with a cross functional team of highly motivated and intelligent folks with a unique range of startup and enterprise experience.\n* Vibrant company culture with frequent team building events.\n* Remote first work culture that allows you to work from anywhere in India and travel to meet as a team when possible.\n\n  \n\n\n\n\n**About Betterworks**  \n\n\n\nBetterworks® aligns, develops and activates your workforce for business growth. Through our easy\\-to\\-use, integrated software solutions and expertise, we help organizations replace outdated annual review processes with powerful Continuous Performance Management® programs that help managers be better at the conversations, coaching and development necessary to inspire and motivate the entire workforce to meet today's goals and be ready for tomorrow's challenges. Our solution supports truly global workforces, and is used daily by workers from more than 100 countries with localization support in more than 20 languages.  \n\n\n\nConnect with us on LinkedIn  \n\n\n*We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We are committed to inclusive and diverse betterworks. We believe that different perspectives lead to better ideas, and better ideas allow us to better understand the needs and interests of our diverse, global betterworks Community. We welcome people of different backgrounds, experiences, abilities and perspectives and are an equal opportunity employer.*",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "internship",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
