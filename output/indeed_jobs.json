@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-19 16:03 UTC",
-  "total": 8,
+  "scraped_at": "2026-08-19 17:04 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
     {
@@ -34,24 +34,6 @@
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Unknown",
-      "title": "Software Developer Intern (Off-Campus Tech Sprint Drive)",
-      "location": "Remote, IN",
-      "url": "https://in.indeed.com/viewjob?jk=71a2ff86ec860b0b",
-      "direct_url": "http://in.indeed.com/job/software-developer-intern-campus-tech-sprint-drive-71a2ff86ec860b0b",
-      "company_url": "https://in.indeed.comNone",
-      "date_posted": "2026-08-19",
-      "description": "***PrepLinc*** is a disruptive tech\\-talent ecosystem. Our core mission is to give every student and candidate from Tier\\-2, and lower\\-tier colleges the exact same exposure, industry guidance, and high\\-paying career opportunities that are usually only offered to Tier\\-1 students. We bypass traditional campus recruitment blockades and automated resume\\-filtering bots to place candidates purely based on their raw coding logic, project\\-building capacity, and merit\n\n***Role Overview:***  \nWe are aggregating hiring mandates for **partner startups** and leveraging an extensive network of **alumni referrals from top tech companies** to onboard Software Development Interns. You will skip the generic corporate application queues. Candidates who successfully verify their technical readiness through our evaluation track will be fast\\-routed directly onto the desks of hiring managers and internal referral pipelines.\n\n**Who Should Apply:**\n\n* Students pursuing B.Tech, BE, BCA, MCA, or BSc CS/IT.\n* Open to students of all years and recent graduates.\n* **Zero CGPA Bar \\& Zero College Tier Restrictions**\n\n**Mandatory 3\\-Step Selection Process:**Due to high applicant volumes and our commitment to quality, we do not use robotic bots to auto\\-reject resumes. Every applicant enters our transparent verification pipeline:\n\n* **Initial Profile Logging:** Click Apply to submit your Profile on PrepLinc.\n* **Pre\\-Placement Strategy Briefing (PPT):** A mandatory 30\\-minute live orientation outlining the exact technical portfolio standards required by our partner networks, hosted by industry seniors.\n* **1\\-on\\-1 Profile Diagnostic Call:** A live logic evaluation with our technical selection panel to determine your readiness stream.\n\nPay: ₹15,000\\.00 \\- ₹45,000\\.00 per month\n\nBenefits:\n\n* Flexible schedule\n* Work from home\n\nApplication Question(s):\n\n* MANDATORY STEP: To receive updates fill this gogole form \\- https://forms.gle/jzTHobB69T5mhYxa7\n\nWork Location: Remote",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
       "emails": "",
