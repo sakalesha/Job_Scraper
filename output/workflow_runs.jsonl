@@ -2851,3 +2851,4 @@
 {"job_count": 49, "run_attempt": "1", "run_id": "32212998482", "timestamp": "2026-08-19T03:41:10Z", "workflow": "hiringcafe"}
 {"job_count": 0, "run_attempt": "1", "run_id": "32213833564", "timestamp": "2026-08-19T04:00:29Z", "workflow": "biotech"}
 {"job_count": 3, "run_attempt": "1", "run_id": "32214352981", "timestamp": "2026-08-19T04:07:34Z", "workflow": "linkedin"}
+{"job_count": 0, "run_attempt": "1", "run_id": "32214529723", "timestamp": "2026-08-19T04:07:54Z", "workflow": "ziprecruiter"}
