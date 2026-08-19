@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-19 02:08 UTC",
-  "total": 8,
+  "scraped_at": "2026-08-19 03:26 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
     {
@@ -52,24 +52,6 @@
       "salary_source": "",
       "salary_currency": "",
       "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Unknown",
-      "title": "Full Stack Developer Intern",
-      "location": "GJ, IN",
-      "url": "https://in.indeed.com/viewjob?jk=705f7fa8dea400d1",
-      "direct_url": "http://in.indeed.com/job/full-stack-developer-intern-705f7fa8dea400d1",
-      "company_url": "https://in.indeed.comNone",
-      "date_posted": "2026-08-18",
-      "description": "**Position:** Full Stack Developer Intern  \n**Employment Type:** Internship  \n**Duration:** 3–6 Months  \n**Location:** On\\-site  \n**Stipend:** 8\\-15k\n\n**About the Role**\n\nWe are looking for a **Full Stack Developer Intern** who is interested in building modern, scalable, and user\\-friendly web applications. The intern will work across both frontend and backend development and gain hands\\-on experience in designing, developing, testing, and deploying web applications.\n\nThe ideal candidate should have a strong foundation in web development and a willingness to learn new technologies.\n\n**Key Responsibilities**\n\n* Develop responsive and user\\-friendly web applications.\n* Build frontend interfaces using modern web technologies.\n* Develop backend services, APIs, and application logic.\n* Integrate frontend applications with backend APIs.\n* Work with relational and/or NoSQL databases.\n* Implement authentication, authorization, and basic security practices.\n* Debug and resolve frontend and backend issues.\n* Write clean, reusable, and maintainable code.\n* Test applications and fix bugs.\n* Use Git/GitHub for version control.\n* Collaborate with designers, developers, and other team members.\n* Participate in code reviews and technical discussions.\n* Assist with application deployment and maintenance.\n\n**Required Skills Frontend**\n\n* Good knowledge of **HTML, CSS, and JavaScript**.\n* Familiarity with **React.js** or another modern frontend framework.\n* Understanding of responsive web design.\n* Basic knowledge of UI/UX principles.\n\nBackend\n\n* Knowledge of at least one backend technology such as **Node.js/Express, Python/Django, Python/FastAPI, Java/Spring Boot**, etc.\n* Understanding of REST APIs.\n* Basic understanding of authentication and authorization.\n\nDatabase\n\n* Knowledge of **SQL** and relational databases such as MySQL/PostgreSQL.\n* Familiarity with MongoDB or other NoSQL databases is a plus.\n\nOther\n\n* Familiarity with Git/GitHub.\n* Good understanding of programming fundamentals.\n* Strong problem\\-solving and debugging skills.\n\nGood to Have\n\n* TypeScript experience.\n* Next.js experience.\n* Docker knowledge.\n* Cloud deployment experience with AWS, Azure, or GCP.\n* Experience with CI/CD.\n* Knowledge of testing frameworks.\n* Experience building and deploying personal or academic projects.\n\nEligibility\n\n* Pursuing or recently completed a degree/diploma in Computer Science, Information Technology, Engineering, or a related field.\n* Strong interest in web and software development.\n* Freshers and students with relevant projects are encouraged to apply.\n* GitHub/project portfolio is a plus.\n\nWhat You Will Gain\n\n* Hands\\-on experience in frontend and backend development.\n* Experience building complete web applications.\n* Exposure to real\\-world development practices.\n* Experience with APIs, databases, Git, and deployment.\n* Mentorship from experienced developers.\n* Opportunity to work on production\\-oriented projects.\n* Certificate and potential full\\-time opportunity based on performance.\n\nPay: ₹8,000\\.00 \\- ₹15,000\\.00 per month\n\nBenefits:\n\n* Leave encashment\n* Paid sick time\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
