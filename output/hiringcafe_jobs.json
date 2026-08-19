@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 20:20 UTC",
-  "total": 48,
-  "new_count": 2,
+  "scraped_at": "2026-08-19 21:19 UTC",
+  "total": 47,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Point72",
@@ -312,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ITI Engineering",
-      "title": "Software Engineering Intern",
-      "location": "Winter Springs, Florida, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8bd854a2-487e-4cb7-8a54-aded80e03e26&ccId=19000101_000001&jobId=566155&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8bd854a2-487e-4cb7-8a54-aded80e03e26&ccId=19000101_000001&jobId=566155&lang=en_US",
-      "date_posted": "2026-08-12T12:34:00.000Z",
-      "description": "Currently enrolled in a bachelor's or master's program in software engineering, computer science, or a related field; strong analytical skills; Microsoft Office proficiency; U.S. citizenship or green card required.",
-      "salary": "$48k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Fooji, Inc.",
       "title": "Software Engineering Intern",
       "location": "Lexington, Kentucky, United States",
@@ -335,6 +321,20 @@
       "description": "Student or recent graduate pursuing computer science or software engineering with 3.5+ GPA, JavaScript/TypeScript and SQL experience, Git/GitHub familiarity, and hands-on AI coding assistant experience.",
       "salary": "",
       "job_type": "Part Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ITI Engineering",
+      "title": "Software Engineering Intern",
+      "location": "Winter Springs, Florida, United States",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8bd854a2-487e-4cb7-8a54-aded80e03e26&ccId=19000101_000001&jobId=566155&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8bd854a2-487e-4cb7-8a54-aded80e03e26&ccId=19000101_000001&jobId=566155&lang=en_US",
+      "date_posted": "2026-08-12T12:34:00.000Z",
+      "description": "Currently enrolled in a bachelor's or master's program in software engineering, computer science, or a related field; strong analytical skills; Microsoft Office proficiency; U.S. citizenship or green card required.",
+      "salary": "$48k/yr",
+      "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -522,20 +522,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Atoms",
-      "title": "Software Engineer Intern - Winter 2027",
-      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "date_posted": "2026-08-06T20:53:44.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
-      "salary": "$146k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ericsson",
       "title": "Software Developer Intern (787378)",
       "location": "Plano, Texas, United States",
@@ -676,34 +662,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Fooji, Inc.",
-      "title": "Software Engineering Intern",
-      "location": "Lexington, Kentucky, United States",
-      "url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
-      "direct_url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
-      "date_posted": "2026-08-19T14:17:57.101Z",
-      "description": "Student or recent graduate pursuing computer science or software engineering with 3.5+ GPA, JavaScript/TypeScript and SQL experience, Git/GitHub familiarity, and hands-on AI coding assistant experience.",
-      "salary": "",
-      "job_type": "Part Time, Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Atoms",
-      "title": "Software Engineer Intern - Winter 2027",
-      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "date_posted": "2026-08-06T20:53:44.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
-      "salary": "$146k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
