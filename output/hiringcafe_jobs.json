@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 23:16 UTC",
-  "total": 47,
-  "new_count": 0,
+  "scraped_at": "2026-08-19 00:55 UTC",
+  "total": 50,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Point72",
@@ -12,6 +12,20 @@
       "date_posted": "2026-08-12T04:24:48.543Z",
       "description": "Undergraduate or graduate study in computer science or engineering; significant Python, C++, C, or Java experience; systems programming interest; Linux internals knowledge; communication and ownership skills.",
       "salary": "$120k–$150k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Garda Capital Partners",
+      "title": "Software Engineer Intern ",
+      "location": "New York City, New York, United States",
+      "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+      "direct_url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+      "date_posted": "2026-08-18T20:01:53.000Z",
+      "description": "Pursuing a bachelor's or master's degree in computer science, engineering, mathematics, or quantitative finance; Python, SQL, programming fundamentals, and problem-solving skills required.",
+      "salary": "$50/yr",
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -74,6 +88,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "RPM xConstruction, LLC",
+      "title": "SOFTWARE DEVELOPER INTERN",
+      "location": "McKinney, Texas, United States",
+      "url": "https://recruiting2.ultipro.com/rpm1002rpmc/JobBoard/6bb23de1-c593-4dc2-9486-e3263ad51836/OpportunityDetail?opportunityId=3b4886f8-94ae-49fc-a305-7c3273b4ad42",
+      "direct_url": "https://recruiting2.ultipro.com/rpm1002rpmc/JobBoard/6bb23de1-c593-4dc2-9486-e3263ad51836/OpportunityDetail?opportunityId=3b4886f8-94ae-49fc-a305-7c3273b4ad42",
+      "date_posted": "2026-08-18T18:56:52.935Z",
+      "description": "Currently pursuing a related degree, with programming fundamentals, application-building experience, strong communication skills, and preferably experience with LLMs, AI applications, web or mobile development, databases, SQL, enterprise IT, and GitHub.",
+      "salary": "",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "BMW AG",
       "title": "Innovations Software Developer Intern",
       "location": "Woodruff, South Carolina, United States",
@@ -116,6 +144,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Zipline",
+      "title": "Enterprise Systems Software Engineer Intern (Spring 2027)",
+      "location": "South San Francisco, California, United States",
+      "url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+      "direct_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+      "date_posted": "2026-08-18T18:33:19.000Z",
+      "description": "Software engineering internship requiring systems design, data modeling, stakeholder collaboration, operational reliability, and experience delivering measurable software impact. Regular on-site work and travel required.",
+      "salary": "$112k/yr",
+      "job_type": "Full Time, Internship, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Atoms",
       "title": "Software Engineer Intern - Winter 2027",
       "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
@@ -127,6 +169,20 @@
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Roblox",
+      "title": "[Summer 2027] Software Engineer Intern",
+      "location": "San Mateo, California, United States",
+      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+      "direct_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+      "date_posted": "2026-08-05T16:03:16.000Z",
+      "description": "Pursuing an undergraduate or graduate degree in computer science, engineering, or a related field; proficiency in at least one listed programming language; collaborative and eager to learn.",
+      "salary": "$129k/yr",
+      "job_type": "Full Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -298,17 +354,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Roblox",
-      "title": "[Summer 2027] Software Engineer Intern",
-      "location": "San Mateo, California, United States",
-      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-      "direct_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-      "date_posted": "2026-08-05T16:03:16.000Z",
-      "description": "Pursuing an undergraduate or graduate degree in computer science, engineering, or a related field; proficiency in at least one listed programming language; collaborative and eager to learn.",
-      "salary": "$129k/yr",
-      "job_type": "Full Time, Internship",
+      "company": "ATOMS",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "date_posted": "2026-08-06T20:35:21.000Z",
+      "description": "Pursuing a bachelor's or master's in computer science, engineering, or related field; minimum 3.7 GPA, introductory computer science coursework, and advanced programming experience.",
+      "salary": "$146k/yr",
+      "job_type": "Internship",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -335,20 +391,6 @@
       "description": "Basic software development lifecycle, QA, and web development knowledge; familiarity with Java, JavaScript, HTML, CSS, Spring, React, and preferably JIRA; strong problem-solving, communication, teamwork, and learning skills.",
       "salary": "$42k/yr",
       "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Impact.com",
-      "title": "Associate Software Engineer intern",
-      "location": "Santa Barbara, California, United States",
-      "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
-      "direct_url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
-      "date_posted": "2026-08-06T13:02:16.000Z",
-      "description": "Bachelor's degree in IT, computer science, or similar, or equivalent experience; 1+ year of Java and MySQL experience; Spring, REST APIs, JavaScript framework, cloud platform, and problem-solving skills.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -419,20 +461,6 @@
       "description": "Currently pursuing a B.S. or M.S. in CS/ECE/CE, experience with Python, ability to design/write/test software; embedded, frontend, and devops experience are a plus.",
       "salary": "$60k/yr",
       "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Copart",
-      "title": "Software Engineering Intern",
-      "location": "Dallas, Texas, United States",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079",
-      "direct_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Pursuing or holding a bachelor’s in CS/AI/Engineering, experience with LLM APIs, Java/Spring backend concurrency, React/modern JS frontend, unit testing, vector DBs, and AI system design.",
-      "salary": "",
-      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -536,20 +564,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ATOMS",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "date_posted": "2026-08-06T20:35:21.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or related field; minimum 3.7 GPA, introductory computer science coursework, and advanced programming experience.",
-      "salary": "$146k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ericsson",
       "title": "Software Developer Intern (787378)",
       "location": "Plano, Texas, United States",
@@ -558,6 +572,20 @@
       "date_posted": "2026-08-14T14:23:36.000Z",
       "description": "Knowledge of AI/ML, automation, microservices, containers, system engineering, programming, QA, DevOps, cloud infrastructure, and software lifecycle practices; familiarity with Java, C/C++, Python, Ansible, AWS, Docker, Kubernetes, Jenkins, JIRA, and JFrog.",
       "salary": "",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Impact.com",
+      "title": "Associate Software Engineer intern",
+      "location": "Santa Barbara, California, United States",
+      "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+      "direct_url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+      "date_posted": "2026-08-06T13:02:16.000Z",
+      "description": "Bachelor's degree in IT, computer science, or similar, or equivalent experience; 1+ year of Java and MySQL experience; Spring, REST APIs, JavaScript framework, cloud platform, and problem-solving skills.",
+      "salary": "$80k–$90k/yr",
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -603,6 +631,20 @@
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Foundation Finance Company, LLC",
+      "title": "Full Stack Developer Intern",
+      "location": "Rothschild, Wisconsin, United States",
+      "url": "https://careers.foundationfinance.com/jobs/2097?lang=en-us",
+      "direct_url": "https://careers.foundationfinance.com/jobs/2097?lang=en-us",
+      "date_posted": "2026-08-18T18:59:26.000Z",
+      "description": "Currently pursuing or recently completed technical training, or equivalent software development experience. Preferred exposure to web development, programming, databases, APIs, version control, testing, and frameworks.",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Full Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -662,5 +704,62 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Garda Capital Partners",
+      "title": "Software Engineer Intern ",
+      "location": "New York City, New York, United States",
+      "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+      "direct_url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+      "date_posted": "2026-08-18T20:01:53.000Z",
+      "description": "Pursuing a bachelor's or master's degree in computer science, engineering, mathematics, or quantitative finance; Python, SQL, programming fundamentals, and problem-solving skills required.",
+      "salary": "$50/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "RPM xConstruction, LLC",
+      "title": "SOFTWARE DEVELOPER INTERN",
+      "location": "McKinney, Texas, United States",
+      "url": "https://recruiting2.ultipro.com/rpm1002rpmc/JobBoard/6bb23de1-c593-4dc2-9486-e3263ad51836/OpportunityDetail?opportunityId=3b4886f8-94ae-49fc-a305-7c3273b4ad42",
+      "direct_url": "https://recruiting2.ultipro.com/rpm1002rpmc/JobBoard/6bb23de1-c593-4dc2-9486-e3263ad51836/OpportunityDetail?opportunityId=3b4886f8-94ae-49fc-a305-7c3273b4ad42",
+      "date_posted": "2026-08-18T18:56:52.935Z",
+      "description": "Currently pursuing a related degree, with programming fundamentals, application-building experience, strong communication skills, and preferably experience with LLMs, AI applications, web or mobile development, databases, SQL, enterprise IT, and GitHub.",
+      "salary": "",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Zipline",
+      "title": "Enterprise Systems Software Engineer Intern (Spring 2027)",
+      "location": "South San Francisco, California, United States",
+      "url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+      "direct_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+      "date_posted": "2026-08-18T18:33:19.000Z",
+      "description": "Software engineering internship requiring systems design, data modeling, stakeholder collaboration, operational reliability, and experience delivering measurable software impact. Regular on-site work and travel required.",
+      "salary": "$112k/yr",
+      "job_type": "Full Time, Internship, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Foundation Finance Company, LLC",
+      "title": "Full Stack Developer Intern",
+      "location": "Rothschild, Wisconsin, United States",
+      "url": "https://careers.foundationfinance.com/jobs/2097?lang=en-us",
+      "direct_url": "https://careers.foundationfinance.com/jobs/2097?lang=en-us",
+      "date_posted": "2026-08-18T18:59:26.000Z",
+      "description": "Currently pursuing or recently completed technical training, or equivalent software development experience. Preferred exposure to web development, programming, databases, APIs, version control, testing, and frameworks.",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Full Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
