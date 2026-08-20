@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 22:21 UTC",
-  "total": 48,
-  "new_count": 0,
+  "scraped_at": "2026-08-20 23:20 UTC",
+  "total": 49,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Point72",
@@ -256,6 +256,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Belvedere Trading",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+      "direct_url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+      "date_posted": "2026-08-04T17:01:40.988Z",
+      "description": "College junior expected to graduate December 2027 or Spring 2028, with programming experience in C++, C#, or Java, strong communication, critical thinking, collaboration, and ability to attend fully in person in Chicago.",
+      "salary": "$130k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Haladir",
       "title": "Software Engineering Intern (Fall 2026)",
       "location": "San Francisco, California, United States",
@@ -312,6 +326,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Zipline",
+      "title": "Software Engineer Intern (Spring 2027)",
+      "location": "South San Francisco, California, United States",
+      "url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+      "direct_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+      "date_posted": "2026-08-20T18:47:04.000Z",
+      "description": "Completed the second year of undergraduate studies; master's and PhD students eligible. Requires software development passion, computer science fundamentals, product mindset, and willingness to learn new technology stacks.",
+      "salary": "$104k/yr",
+      "job_type": "Full Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Cloudflare",
       "title": "Software Engineer Intern (Fall 2026)",
       "location": "London or San Francisco",
@@ -323,20 +351,6 @@
       "job_type": "Full Time, Internship",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Belvedere Trading",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
-      "direct_url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
-      "date_posted": "2026-08-04T17:01:40.988Z",
-      "description": "College junior expected to graduate December 2027 or Spring 2028, with programming experience in C++, C#, or Java, strong communication, critical thinking, collaboration, and ability to attend fully in person in Chicago.",
-      "salary": "$130k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -676,5 +690,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Zipline",
+      "title": "Software Engineer Intern (Spring 2027)",
+      "location": "South San Francisco, California, United States",
+      "url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+      "direct_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+      "date_posted": "2026-08-20T18:47:04.000Z",
+      "description": "Completed the second year of undergraduate studies; master's and PhD students eligible. Requires software development passion, computer science fundamentals, product mindset, and willingness to learn new technology stacks.",
+      "salary": "$104k/yr",
+      "job_type": "Full Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
