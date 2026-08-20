@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 04:32 UTC",
-  "total": 48,
-  "new_count": 2,
+  "scraped_at": "2026-08-20 17:23 UTC",
+  "total": 49,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Point72",
@@ -321,6 +321,20 @@
       "description": "Must be pursuing a bachelor’s in CS, Computer Engineering or related, graduate Dec 2026–Summer 2027, 3.0+ GPA, right to work in the U.S., able to relocate to Atlanta for a 12-week summer internship, knowledge of structured programming and databases.",
       "salary": "$61k–$70k/yr",
       "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Fooji, Inc.",
+      "title": "Software Engineering Intern",
+      "location": "Lexington, Kentucky, United States",
+      "url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
+      "direct_url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
+      "date_posted": "2026-08-19T14:17:57.101Z",
+      "description": "Student or recent graduate pursuing computer science or software engineering with 3.5+ GPA, JavaScript/TypeScript and SQL experience, Git/GitHub familiarity, and hands-on AI coding assistant experience.",
+      "salary": "",
+      "job_type": "Part Time, Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -678,29 +692,15 @@
   ],
   "new_jobs": [
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Software Engineer Intern (Search) - 2027 Summer",
-      "location": "San Jose, California, United States",
-      "url": "https://careers.tiktokusds.com/usds/position/7672615562107029765/detail",
-      "direct_url": "https://careers.tiktokusds.com/usds/position/7672615562107029765/detail",
-      "date_posted": "2026-08-11T03:48:27.630Z",
-      "description": "Pursuing a bachelor's or master's degree in computer science, computer engineering, software engineering, or a related field; large-scale services experience and C/C++, Python, Java, or Golang proficiency required.",
-      "salary": "$94k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Software Engineer Intern (Ads) - 2027 Summer",
-      "location": "San Jose, California, United States",
-      "url": "https://careers.tiktokusds.com/usds/position/7671517666977253685/detail",
-      "direct_url": "https://careers.tiktokusds.com/usds/position/7671517666977253685/detail",
-      "date_posted": "2026-08-08T05:03:18.023Z",
-      "description": "Currently pursuing a bachelor's degree in a technical discipline, available for a 12-week Summer 2027 internship, with programming experience in C, C++, Java, or Golang and strong communication skills.",
-      "salary": "$94k/yr",
-      "job_type": "Internship",
+      "company": "Fooji, Inc.",
+      "title": "Software Engineering Intern",
+      "location": "Lexington, Kentucky, United States",
+      "url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
+      "direct_url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
+      "date_posted": "2026-08-19T14:17:57.101Z",
+      "description": "Student or recent graduate pursuing computer science or software engineering with 3.5+ GPA, JavaScript/TypeScript and SQL experience, Git/GitHub familiarity, and hands-on AI coding assistant experience.",
+      "salary": "",
+      "job_type": "Part Time, Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
