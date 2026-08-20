@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 17:23 UTC",
+  "scraped_at": "2026-08-20 18:30 UTC",
   "total": 49,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Point72",
@@ -690,20 +690,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Fooji, Inc.",
-      "title": "Software Engineering Intern",
-      "location": "Lexington, Kentucky, United States",
-      "url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
-      "direct_url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
-      "date_posted": "2026-08-19T14:17:57.101Z",
-      "description": "Student or recent graduate pursuing computer science or software engineering with 3.5+ GPA, JavaScript/TypeScript and SQL experience, Git/GitHub familiarity, and hands-on AI coding assistant experience.",
-      "salary": "",
-      "job_type": "Part Time, Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
