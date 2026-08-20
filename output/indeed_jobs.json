@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20 20:03 UTC",
-  "total": 7,
+  "scraped_at": "2026-08-20 21:05 UTC",
+  "total": 6,
   "new_count": 0,
   "jobs": [
     {
@@ -18,24 +18,6 @@
       "job_type": "fulltime",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Ihsuk Tech",
-      "title": "Web Developer Intern",
-      "location": "Remote, IN",
-      "url": "https://in.indeed.com/viewjob?jk=5fa265bda3edb36a",
-      "direct_url": "http://in.indeed.com/job/web-developer-intern-5fa265bda3edb36a",
-      "company_url": "https://in.indeed.com/cmp/Ihsuk-Tech",
-      "date_posted": "2026-08-20",
-      "description": "We are looking for a passionate and highly motivated **MERN Stack / Next.js Developer Intern** to join our core development team at **IHSUK TECH**. You will be working on **FIXSPIRE**, our fast\\-growing SaaS platform designed for service businesses across India.\n\nThis is not a basic internship — you will work on a **live production SaaS product**, contribute to scalable architecture, and collaborate directly with our UI/UX and backend teams.\n\nKey Responsibilities\n\n* Develop and enhance features for **FIXSPIRE (SaaS product)** using **MERN Stack and Next.js**\n* Build scalable frontend components using **React / Next.js**\n* Develop and optimize backend APIs using **Node.js, Express, and MongoDB**\n* Integrate third\\-party services (payments, WhatsApp APIs, authentication, etc.)\n* Collaborate with the UI/UX team to convert Figma designs into production\\-ready interfaces\n* Maintain clean, modular, and reusable code\n* Debug, optimize performance, and fix production\\-level issues\n* Participate in daily stand\\-ups, sprint planning, and code reviews\n\nRequired Skills \\& Qualifications\n\n* Strong knowledge of **JavaScript (ES6\\+)**\n* Hands\\-on experience with:\n* **React.js**\n* **Next.js**\n* **Node.js**\n* **Express.js**\n* **MongoDB**\n* Understanding of REST APIs and API integration\n* Experience with **Git \\& GitHub**\n* Basic understanding of authentication (JWT, role\\-based access)\n* Knowledge of responsive design and modern UI practices\n* Strong problem\\-solving mindset\n* Ability to work in a structured development workflow\n\nPreferred (Bonus) Skills\n\n* Experience deploying applications (Vercel, Render, AWS, etc.)\n* Knowledge of SaaS architecture or multi\\-tenant systems\n* Familiarity with payment gateway integrations (Razorpay/Stripe)\n* Understanding of CI/CD workflows\n\nRequirements\n\n* Currently pursuing or recently completed a **Bachelor’s Degree in Computer Science / IT / related field**\n* Available to work **30–36 hours per week**\n* Must be comfortable working on real production\\-level code\n* A portfolio or GitHub profile showcasing MERN projects is highly preferred\n\nWhat You’ll Gain\n\n* Real\\-world SaaS product development experience\n* Exposure to scalable architecture and production deployment\n* Experience working in an international tech startup environment\n* Deep understanding of the full Software Development Lifecycle (SDLC)\n* Mentorship and structured growth opportunities\n\nPerks\n\n* Internship Completion Certificate\n* Performance\\-Based Letter of Recommendation\n* Opportunity for a full\\-time role based on performance\n\nJob Type: Internship\n\nPay: ₹1,000\\.00 \\- ₹5,000\\.00 per month\n\nWork Location: Remote",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "internship",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "emails": "",
       "ats": "Indeed"
     },
