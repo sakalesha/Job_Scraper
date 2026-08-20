@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20 19:19 UTC",
-  "total": 8,
+  "scraped_at": "2026-08-20 20:03 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
     {
@@ -16,24 +16,6 @@
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Agaram Technologies",
-      "title": "Software Developer Intern",
-      "location": "TN, IN",
-      "url": "https://in.indeed.com/viewjob?jk=b77303f79a50c732",
-      "direct_url": "http://in.indeed.com/job/software-developer-intern-b77303f79a50c732",
-      "company_url": "https://in.indeed.com/cmp/Agaram-Technologies",
-      "date_posted": "2026-08-20",
-      "description": "Job description:\n\n**Key Responsibilities:**\n\n* Assist in the design, development, and testing of software applications.\n* Collaborate with senior developers and cross\\-functional teams to understand project requirements and contribute to technical solutions.\n* Write clean, maintainable, and efficient code following best practices.\n* Participate in code reviews and provide constructive feedback.\n* Troubleshoot and debug software issues, ensuring timely resolution.\n* Stay updated on emerging technologies and industry trends.\n* Contribute to technical documentation, including design specifications and user guides.\n\n**Qualification:**\n\nB.E/B.Tech/M.Sc in Computer Science or IT, MCA post graduates are eligible.\n\n**Requirements**:\n\nStrong interest in software development and technology.\n\nGood understanding of programming languages such as **Advanced Java, JavaScript, React.js, RDBMS, SQL or PostgreSQL.**\n\nFamiliarity with software development methodologies (Agile, Scrum, etc.).\n\nExcellent problem\\-solving and analytical skills.\n\nStrong communication and teamwork abilities.\n\nWillingness to learn and adapt in a fast\\-paced environment.\n\n**Note: This internship leads to permanent employment. 2025 \\& 2026 passed outs are preferred.**\n\nPay: From ₹15,000\\.00 per month\n\nBenefits:\n\n* Flexible schedule\n* Paid sick time\n* Paid time off\n* Provident Fund\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime, internship",
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
