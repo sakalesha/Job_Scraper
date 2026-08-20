@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 19:08 UTC",
+  "scraped_at": "2026-08-20 19:52 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Raysoft.ai",
@@ -14,16 +14,5 @@
       "description": "Raysoft.AI is looking for a Full Stack Developer Intern\nto join our development team for a 6-month remote internship.\nThis role is a good fit for a recent graduate with knowledge of Python and React.js who is looking for an opportunity to work on real software products rather than just training or practice assignments.\nWhat you’ll work on\n\nDevelop backend APIs using Python and FastAPI\nBuild and improve frontend features using React.js\nConnect frontend applications with backend APIs\nWork with SQL databases and third-party APIs\nDebug and fix issues in existing applications\nTest features and participate in code reviews\nWork alongside our development team on AI-powered SaaS products\n\nWhat we’re looking for\n\nRecent B.Tech/B.E./BCA/MCA or similar graduate\nGood understanding of Python\nWorking knowledge of React.js and JavaScript\nBasic understanding of FastAPI or REST APIs\nFamiliarity with SQL and databases\nComfortable using Git/GitHub\nGood problem-solving skills and willingness to learn\nAble to work independently in a remote environment\n\nYou do not need extensive professional experience. College projects, personal projects, internships, or a strong GitHub profile will be considered.\n\nInternship Details\n\nLocation: Remote – India\nDuration: 6 months\nExperience: Fresher / 0–1 year\nEmployment Type: Internship\nCandidates who have recently graduated and want hands-on full-stack development experience are encouraged to apply.\n\nShow more\n\nShow less\n\nSeniority level\n\nInternship\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Raysoft.ai",
-      "title": "Full Stack Developer Intern - Python / FastAPI / React.js",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4450375243/",
-      "date_posted": "2026-08-20",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Raysoft.AI is looking for a Full Stack Developer Intern\nto join our development team for a 6-month remote internship.\nThis role is a good fit for a recent graduate with knowledge of Python and React.js who is looking for an opportunity to work on real software products rather than just training or practice assignments.\nWhat you’ll work on\n\nDevelop backend APIs using Python and FastAPI\nBuild and improve frontend features using React.js\nConnect frontend applications with backend APIs\nWork with SQL databases and third-party APIs\nDebug and fix issues in existing applications\nTest features and participate in code reviews\nWork alongside our development team on AI-powered SaaS products\n\nWhat we’re looking for\n\nRecent B.Tech/B.E./BCA/MCA or similar graduate\nGood understanding of Python\nWorking knowledge of React.js and JavaScript\nBasic understanding of FastAPI or REST APIs\nFamiliarity with SQL and databases\nComfortable using Git/GitHub\nGood problem-solving skills and willingness to learn\nAble to work independently in a remote environment\n\nYou do not need extensive professional experience. College projects, personal projects, internships, or a strong GitHub profile will be considered.\n\nInternship Details\n\nLocation: Remote – India\nDuration: 6 months\nExperience: Fresher / 0–1 year\nEmployment Type: Internship\nCandidates who have recently graduated and want hands-on full-stack development experience are encouraged to apply.\n\nShow more\n\nShow less\n\nSeniority level\n\nInternship\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development"
-    }
-  ]
+  "new_jobs": []
 }
