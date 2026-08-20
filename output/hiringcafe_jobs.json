@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 23:17 UTC",
+  "scraped_at": "2026-08-20 00:54 UTC",
   "total": 47,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Point72",
@@ -144,20 +144,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Roblox",
-      "title": "[Summer 2027] Software Engineer Intern",
-      "location": "San Mateo, California, United States",
-      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-      "direct_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-      "date_posted": "2026-08-05T16:03:16.000Z",
-      "description": "Pursuing an undergraduate or graduate degree in computer science, engineering, or a related field; proficiency in at least one listed programming language; collaborative and eager to learn.",
-      "salary": "$129k/yr",
-      "job_type": "Full Time, Internship",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Atoms",
       "title": "Software Engineer Intern - Winter 2027",
       "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
@@ -169,6 +155,20 @@
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Roblox",
+      "title": "[Summer 2027] Software Engineer Intern",
+      "location": "San Mateo, California, United States",
+      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+      "direct_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+      "date_posted": "2026-08-05T16:03:16.000Z",
+      "description": "Pursuing an undergraduate or graduate degree in computer science, engineering, or a related field; proficiency in at least one listed programming language; collaborative and eager to learn.",
+      "salary": "$129k/yr",
+      "job_type": "Full Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -662,20 +662,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Massey Services",
-      "title": "Software Engineer Intern - Orlando",
-      "location": "Orlando, Florida, United States",
-      "url": "https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR104566",
-      "direct_url": "https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR104566",
-      "date_posted": "2026-08-19T00:00:00.000Z",
-      "description": "Internship supporting software development and maintenance across the software lifecycle, including application analysis, development, testing, deployment, system improvement, solution research, and technical documentation.",
-      "salary": "",
-      "job_type": "Part Time, Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
