@@ -1,12 +1,8 @@
 # 🔥 LinkedIn — Sakalesh Roles
-*Last updated: 2026-08-20 04:07 UTC*
+*Last updated: 2026-08-20 15:55 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Web Developer Intern (HTML, CSS, JavaScript, Web Development)](https://www.linkedin.com/jobs/view/4455493935/) — MediNex Workforce
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-08-20
-
-### [Software Developer Intern (Java, Python, Software Engineering)](https://www.linkedin.com/jobs/view/4455603078/) — MediNex Workforce
+### [Full Stack Web Development Intern](https://www.linkedin.com/jobs/view/4454114294/) — Deckoviz Space Labs
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-08-20
