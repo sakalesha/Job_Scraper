@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 18:30 UTC",
-  "total": 49,
-  "new_count": 0,
+  "scraped_at": "2026-08-20 19:26 UTC",
+  "total": 50,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Point72",
@@ -326,17 +326,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Fooji, Inc.",
-      "title": "Software Engineering Intern",
-      "location": "Lexington, Kentucky, United States",
-      "url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
-      "direct_url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
-      "date_posted": "2026-08-19T14:17:57.101Z",
-      "description": "Student or recent graduate pursuing computer science or software engineering with 3.5+ GPA, JavaScript/TypeScript and SQL experience, Git/GitHub familiarity, and hands-on AI coding assistant experience.",
+      "company": "Cloudflare",
+      "title": "Software Engineer Intern (Fall 2026)",
+      "location": "London or San Francisco",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "direct_url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "date_posted": "2026-08-20T16:26:40.000Z",
+      "description": "Currently pursuing a relevant degree, with critical thinking, adaptability, curiosity, and software development passion. Must commit to a full-time 12-week minimum internship in London.",
       "salary": "",
-      "job_type": "Part Time, Internship",
+      "job_type": "Full Time, Internship",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -606,6 +606,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "DMS International",
+      "title": "Blockchain Application Developer Intern",
+      "location": "Silver Spring, Maryland, United States",
+      "url": "https://dms-international.breezy.hr/p/3bc895c156a8-blockchain-application-developer-intern",
+      "direct_url": "https://dms-international.breezy.hr/p/3bc895c156a8-blockchain-application-developer-intern",
+      "date_posted": "2026-08-20T15:04:06.047Z",
+      "description": "Basic software development knowledge; familiarity with programming, blockchain, Web3, smart contracts, and web technologies; analytical and security skills; pursuing or recently completed a technical bachelor's or master's degree.",
+      "salary": "",
+      "job_type": "Part Time, Internship",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "MRSL",
       "title": "Software Engineer Intern | Fall and Spring | Autonomous Intelligent Sensing for Space Applications  (FL, SARASOTA)",
       "location": "Sarasota, Florida, United States",
@@ -690,5 +704,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Software Engineer Intern (Fall 2026)",
+      "location": "London or San Francisco",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "direct_url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "date_posted": "2026-08-20T16:26:40.000Z",
+      "description": "Currently pursuing a relevant degree, with critical thinking, adaptability, curiosity, and software development passion. Must commit to a full-time 12-week minimum internship in London.",
+      "salary": "",
+      "job_type": "Full Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "DMS International",
+      "title": "Blockchain Application Developer Intern",
+      "location": "Silver Spring, Maryland, United States",
+      "url": "https://dms-international.breezy.hr/p/3bc895c156a8-blockchain-application-developer-intern",
+      "direct_url": "https://dms-international.breezy.hr/p/3bc895c156a8-blockchain-application-developer-intern",
+      "date_posted": "2026-08-20T15:04:06.047Z",
+      "description": "Basic software development knowledge; familiarity with programming, blockchain, Web3, smart contracts, and web technologies; analytical and security skills; pursuing or recently completed a technical bachelor's or master's degree.",
+      "salary": "",
+      "job_type": "Part Time, Internship",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
