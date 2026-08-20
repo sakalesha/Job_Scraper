@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20 16:12 UTC",
-  "total": 11,
+  "scraped_at": "2026-08-20 17:12 UTC",
+  "total": 10,
   "new_count": 0,
   "jobs": [
     {
@@ -144,24 +144,6 @@
       "job_type": "fulltime, internship",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Unknown",
-      "title": "Frontend Developer Intern",
-      "location": "MP, IN",
-      "url": "https://in.indeed.com/viewjob?jk=50b51b1726cf9eb7",
-      "direct_url": "http://in.indeed.com/job/frontend-developer-intern-50b51b1726cf9eb7",
-      "company_url": "https://in.indeed.comNone",
-      "date_posted": "2026-08-19",
-      "description": "Position : Frontend Developer Intern\n\n**Responsibilities**\n\n* Build web interfaces using React.js and Next.js.\n* Develop reusable and responsive UI components.\n* Integrate REST APIs.\n* Convert designs into functional interfaces.\n* Debug and optimize frontend performance.\n* Write clean and maintainable code.\n* Use Git/GitHub for collaboration.\n\n**Requirements**\n\n* Strong knowledge of HTML, CSS, and JavaScript.\n* Good understanding of React.js.\n* Familiarity with Next.js and TypeScript.\n* Basic knowledge of REST APIs and state management.\n* Familiarity with Tailwind CSS / Material UI.\n* Good problem\\-solving and debugging skills.\n\nPay: ₹15,000\\.00 per month\n\nBenefits:\n\n* Flexible schedule\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
     },
