@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 02:16 UTC",
+  "scraped_at": "2026-08-20 03:41 UTC",
   "total": 47,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Point72",
@@ -188,11 +188,11 @@
     {
       "company": "Leonardo DRS, Inc.",
       "title": "Embedded Software Engineer Intern",
-      "location": "Bridgeton or St. Louis",
+      "location": "Bridgeton, Missouri, United States",
       "url": "https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1416974200/",
       "direct_url": "https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1416974200/",
       "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "High school diploma or GED and current junior-level or above enrollment in a bachelor's program; basic knowledge of C, C++, C#, Java, Python, git, operating systems, and Microsoft Office.",
+      "description": "High school diploma or GED and current junior-level or above enrollment in a bachelor's program in computer science, computer engineering, mathematics, physics, or equivalent; strong analytical, communication, and interpersonal skills.",
       "salary": "$41k–$53k/yr",
       "job_type": "Internship",
       "is_remote": false,
@@ -321,20 +321,6 @@
       "description": "Currently enrolled in a bachelor's or master's program in software engineering, computer science, or a related field; strong analytical skills; Microsoft Office proficiency; U.S. citizenship or green card required.",
       "salary": "$48k/yr",
       "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Fooji, Inc.",
-      "title": "Software Engineering Intern",
-      "location": "Lexington, Kentucky, United States",
-      "url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
-      "direct_url": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.",
-      "date_posted": "2026-08-19T14:17:57.101Z",
-      "description": "Student or recent graduate pursuing computer science or software engineering with 3.5+ GPA, JavaScript/TypeScript and SQL experience, Git/GitHub familiarity, and hands-on AI coding assistant experience.",
-      "salary": "",
-      "job_type": "Part Time, Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -648,6 +634,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Expatiate Communication, Inc.",
+      "title": "Web Developer Intern",
+      "location": "Pasadena, California, United States",
+      "url": "https://jobs.gusto.com/postings/expatiate-communication-inc-web-developer-intern-94cfa0ba-e7c1-46e4-8837-16391d19d20c",
+      "direct_url": "https://jobs.gusto.com/postings/expatiate-communication-inc-web-developer-intern-94cfa0ba-e7c1-46e4-8837-16391d19d20c",
+      "date_posted": "2026-07-21T19:54:05.200Z",
+      "description": "Pursuing or recently completed relevant degree; basic OOP and web fundamentals; familiarity with HTML/CSS/JavaScript; eagerness to learn full-stack, databases, version control, and cloud; Live Scan and TB clearance required.",
+      "salary": "",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Replit",
       "title": "Software Engineering Intern (Summer 2027)",
       "location": "Foster City, California, United States",
@@ -662,5 +662,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Expatiate Communication, Inc.",
+      "title": "Web Developer Intern",
+      "location": "Pasadena, California, United States",
+      "url": "https://jobs.gusto.com/postings/expatiate-communication-inc-web-developer-intern-94cfa0ba-e7c1-46e4-8837-16391d19d20c",
+      "direct_url": "https://jobs.gusto.com/postings/expatiate-communication-inc-web-developer-intern-94cfa0ba-e7c1-46e4-8837-16391d19d20c",
+      "date_posted": "2026-07-21T19:54:05.200Z",
+      "description": "Pursuing or recently completed relevant degree; basic OOP and web fundamentals; familiarity with HTML/CSS/JavaScript; eagerness to learn full-stack, databases, version control, and cloud; Live Scan and TB clearance required.",
+      "salary": "",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
