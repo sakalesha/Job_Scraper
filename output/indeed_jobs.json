@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 17:12 UTC",
+  "scraped_at": "2026-08-21 18:04 UTC",
   "total": 7,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Scientiaarc Solutions LLP",
@@ -130,24 +130,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Unknown",
-      "title": "Full Stack Developer Intern",
-      "location": "Remote, IN",
-      "url": "https://in.indeed.com/viewjob?jk=acb2658705ae6157",
-      "direct_url": "http://in.indeed.com/job/full-stack-developer-intern-acb2658705ae6157",
-      "company_url": "https://in.indeed.comNone",
-      "date_posted": "2026-08-21",
-      "description": "**Tech Stack**\n\n* **Frontend:** React.js (Hooks, Context API)\n* **Backend:** Node.js, Express.js, REST APIs\n* **Database:** PostgreSQL\n* **DevOps \\& Cloud:** Docker, AWS\n\n**Responsibilities**\n\n* Collaborate with the product and engineering team to build and improve full\\-stack features.\n* Develop responsive frontend components using React.js.\n* Build and maintain backend APIs using Node.js and Express.js.\n* Work with PostgreSQL databases for application development.\n* Debug issues, optimize application performance, and improve code quality.\n* Participate in code reviews and team discussions.\n* Take ownership of assigned tasks and deliver them within deadlines.\n* Learn new technologies and contribute to product development in a fast\\-paced startup environment.\n\n**Requirements**\n\n* Good understanding of **React.js** and **Node.js**.\n* Familiarity with JavaScript (ES6\\+), HTML, and CSS.\n* Basic understanding of REST APIs and backend development.\n* Knowledge of PostgreSQL or any relational database.\n* Familiarity with Git and version control.\n* Strong analytical and problem\\-solving skills.\n* Self\\-motivated, eager to learn, and comfortable working independently.\n* Good communication and collaboration skills.\n\n**Preferred Skills (Nice to Have)**\n\n* Experience with Express.js.\n* Basic knowledge of Docker and AWS.\n* Understanding of authentication (JWT/OAuth).\n* Personal projects, internships, or GitHub contributions.\n\n**Selection Process**\n\n* Resume screening\n* Task\\-based practical assessment\n* Technical interview\n\nSelected candidates will undergo a **probation period** during the internship, during which performance, consistency, and commitment will be evaluated before final confirmation.\n\n**What You'll Gain**\n\n* Opportunity to work on a live production product.\n* Exposure to real\\-world startup development and product building.\n* End\\-to\\-end full\\-stack development experience.\n* Mentorship from experienced developers.\n* Certificate of Internship upon successful completion.\n* Potential opportunity for a Pre\\-Placement Offer (PPO) based on performance.\n\nPay: ₹5,000\\.00 \\- ₹10,000\\.00 per month\n\nBenefits:\n\n* Flexible schedule\n* Work from home\n\nWork Location: Remote",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "parttime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
