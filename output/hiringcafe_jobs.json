@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 20:19 UTC",
+  "scraped_at": "2026-08-21 21:18 UTC",
   "total": 51,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Point72",
@@ -718,20 +718,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Advanced Micro Devices, Inc",
-      "title": "2027 Undergrad Software Engineer Intern/Co-op",
-      "location": "Austin or Boxborough or Fort Collins or Longmont or Fishkill or Rochester",
-      "url": "https://careers.amd.com/jobs/90947?lang=en-us",
-      "direct_url": "https://careers.amd.com/jobs/90947?lang=en-us",
-      "date_posted": "2026-08-20T23:31:07.000Z",
-      "description": "Current US undergraduate student in Computer Engineering, Electrical Engineering, Computer Science, or a related field; knowledge of software engineering and programming is encouraged.",
-      "salary": "$59k–$89k/yr",
-      "job_type": "Internship, Temporary",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
