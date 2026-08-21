@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 20:47 UTC",
+  "scraped_at": "2026-08-21 21:45 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Zenithbyte",
@@ -14,16 +14,5 @@
       "description": "Full Stack Web Developer Intern (Paid)\n\nCompany: Zenithbyte\n\nLocation: Remote\nDuration: 3 Months\nFor College Students Only!\n\nPerformance based stipend up-to 7500.00/-\n\nThis is a structured Career Launch Internship Program designed to help students gain practical project experience, mentorship, and industry exposure. The program includes guided learning resources, project evaluations, certificates, and performance-based opportunities.\n\nPerks and benefits:\n\nPerformance based stipend up-to 7500.00/-\n\nCertificate of Internship\nLetter of Recommendation (based on performance)\nSwags and goodies\nPotential full-time role based on performance\n\nRole Overview:\n\nWork on live projects involving both front-end and back-end development. Gain hands-on experience with modern web technologies and build strong technical skills.\n\nKey Responsibilities:\n\nDevelop and maintain responsive websites\nBuild dynamic web applications\nTest, debug, and optimize applications\nCollaborate with designers and developers\n\nEligibility:\n\nStudents or recent graduates in Computer Science, IT, or related fields with knowledge of HTML, CSS, and JavaScript. Familiarity with React, Angular, or Node.js is preferred.\n\nShow more\n\nShow less\n\nSeniority level\n\nInternship\n\nEmployment type\n\nInternship\n\nIndustries\n\nIT Services and IT Consulting, IT System Training and Support, and E-Learning Providers"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Zenithbyte",
-      "title": "Full Stack Web Developer Intern",
-      "location": "India",
-      "url": "https://www.linkedin.com/jobs/view/4456286292/",
-      "date_posted": "2026-08-21",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Full Stack Web Developer Intern (Paid)\n\nCompany: Zenithbyte\n\nLocation: Remote\nDuration: 3 Months\nFor College Students Only!\n\nPerformance based stipend up-to 7500.00/-\n\nThis is a structured Career Launch Internship Program designed to help students gain practical project experience, mentorship, and industry exposure. The program includes guided learning resources, project evaluations, certificates, and performance-based opportunities.\n\nPerks and benefits:\n\nPerformance based stipend up-to 7500.00/-\n\nCertificate of Internship\nLetter of Recommendation (based on performance)\nSwags and goodies\nPotential full-time role based on performance\n\nRole Overview:\n\nWork on live projects involving both front-end and back-end development. Gain hands-on experience with modern web technologies and build strong technical skills.\n\nKey Responsibilities:\n\nDevelop and maintain responsive websites\nBuild dynamic web applications\nTest, debug, and optimize applications\nCollaborate with designers and developers\n\nEligibility:\n\nStudents or recent graduates in Computer Science, IT, or related fields with knowledge of HTML, CSS, and JavaScript. Familiarity with React, Angular, or Node.js is preferred.\n\nShow more\n\nShow less\n\nSeniority level\n\nInternship\n\nEmployment type\n\nInternship\n\nIndustries\n\nIT Services and IT Consulting, IT System Training and Support, and E-Learning Providers"
-    }
-  ]
+  "new_jobs": []
 }
