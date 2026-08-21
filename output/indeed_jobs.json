@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21 19:15 UTC",
-  "total": 6,
+  "scraped_at": "2026-08-21 19:58 UTC",
+  "total": 5,
   "new_count": 0,
   "jobs": [
     {
@@ -90,24 +90,6 @@
       "job_type": "fulltime",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "SMARRTIF AI",
-      "title": "Web Developer Intern",
-      "location": "DL, IN",
-      "url": "https://in.indeed.com/viewjob?jk=4c693a948315016c",
-      "direct_url": "http://in.indeed.com/job/web-developer-intern-4c693a948315016c",
-      "company_url": "https://in.indeed.com/cmp/Smarrtif-Ai",
-      "date_posted": "2026-08-21",
-      "description": "**Position**: Web developer Intern  \n**Internship Period**: 6 Months  \n**No. of Position**: 1  \n**Location**: Hauz Khas, Delhi (Hybrid)  \n**Working Days:** Monday to Friday  \n**Working Time:** 10:00 AM – 6:00 PM\n\n**Roles \\& Responsibilities**\n\n* Develop and maintain responsive websites and web applications.\n* Write clean, reusable, and well\\-structured code.\n* Convert UI/UX designs into functional web pages.\n* Fix bugs and troubleshoot website issues.\n* Test websites for performance, responsiveness, and compatibility.\n* Work with senior developers to implement new features.\n* Integrate APIs and basic backend services.\n* Use Git for version control and collaborate with the development team.\n* Stay updated with modern web development practices and technologies.\n\n**Tech Stack**\n\n* **Frontend:** HTML5, CSS3, JavaScript, React.js\n* **Backend:** Node.js, Express.js\n* **Database:** MongoDB / MySQL\n* **Version Control:** Git, GitHub\n* **Tools:** VS Code, Postman, npm\n* **Basics:** REST APIs, Responsive Design, JSON\n\nPay: ₹5,000\\.00 per month\n\nBenefits:\n\n* Flexible schedule\n\nLocation:\n\n* Hauz Khas, Delhi, Delhi (Required)\n\nWork Location: Hybrid remote in Hauz Khas, Delhi, Delhi",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "internship",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "emails": "",
       "ats": "Indeed"
     }
