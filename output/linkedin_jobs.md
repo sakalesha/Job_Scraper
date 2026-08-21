@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Sakalesh Roles
-*Last updated: 2026-08-21 04:14 UTC*
+*Last updated: 2026-08-21 15:55 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Full Stack Engineer Intern](https://www.linkedin.com/jobs/view/4456274055/) — Hrzworkz Private Limited(HERTZWORKZ)
+- 📍 **Location:** Tamil Nadu, India
+- 🕒 **Posted:** 2026-08-21
+
+### [Web Development Intern](https://www.linkedin.com/jobs/view/4457357125/) — Dexter's Tech
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-08-21
