@@ -1,6 +1,10 @@
 # 🟦 Indeed — Sakalesh Roles
-*Last updated: 2026-08-21 16:05 UTC*
+*Last updated: 2026-08-21 17:12 UTC*
 
-**0 new role(s)** since last run · 6 total in last 24h
+**1 new role(s)** since last run · 7 total in last 24h
 
-No new roles since the last run.
+### [Full Stack Developer Intern](https://in.indeed.com/viewjob?jk=acb2658705ae6157) — Unknown
+- 📍 **Location:** Remote, IN
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-08-21
