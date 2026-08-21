@@ -1,26 +1,8 @@
 {
-  "scraped_at": "2026-08-21 03:36 UTC",
-  "total": 5,
+  "scraped_at": "2026-08-21 04:14 UTC",
+  "total": 4,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Pennsylvania Enterprise Private Limited",
-      "title": "Software Engineer Intern",
-      "location": "PB, IN",
-      "url": "https://in.indeed.com/viewjob?jk=2812d06ebdd80fcc",
-      "direct_url": "http://in.indeed.com/job/software-engineer-intern-2812d06ebdd80fcc",
-      "company_url": "https://in.indeed.com/cmp/Pennsylvania-Enterprise-Private-Limited",
-      "date_posted": "2026-08-20",
-      "description": "**Overview**\n\nWe are looking for a motivated and detail\\-oriented Software Engineer Intern to join our engineering team. The ideal candidate should have strong hands\\-on experience in React.js and a passion for building scalable, user\\-friendly web applications. Experience with Node.js will be considered an added advantage.\n\n**Key Responsibilities**\n\n* Develop and maintain responsive web applications using React.js\n* Build reusable components and frontend libraries for future use\n* Collaborate with cross\\-functional teams including designers, developers, and project managers\n* Optimise applications for maximum speed and scalability\n* Debug and resolve technical issues efficiently\n* Participate in code reviews and follow best development practices\n* Work on API integration and frontend\\-backend connectivity\n* Contribute to continuous improvement of development processes\n\n**Required Skills**\n\n* Minimum 6 months of experience in software development\n* Strong knowledge of React.js, JavaScript, HTML5, and CSS3\n* Understanding of responsive design principles\n* Experience with REST APIs and third\\-party integrations\n* Familiarity with Git/version control systems\n* Good problem\\-solving and communication skills\n\n**Preferred Skills**\n\n* Experience working with Node.js\n* Knowledge of MongoDB or SQL databases\n* Understanding of backend development concepts\n* Familiarity with Agile/Scrum methodology\n\n**Qualification**\n\n* Bachelor’s degree in Computer Science, Information Technology, or related field\n\n**About PENNEP**\n\nPENNEP works with national and multinational clients and strives to become one of the world's leading professional services companies with a vision to transform clients' business, operating, and technology models for the digital era. Our leaders have 50 years of combined and unique industry knowledge with a consultative approach that helps clients envision, build, and run more innovative and efficient businesses.\n\nApplicants may be required to attend interviews in person or by video conference. In addition, candidates may be required to present their current state or government\\-issued ID during each interview.\n\nPENNEP is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, colour, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We provide engineering excellence practices training for all our employees.\n\nPay: ₹10,000\\.00 per month\n\nBenefits:\n\n* Paid sick time\n* Paid time off\n* Provident Fund\n\nEducation:\n\n* Bachelor's (Preferred)\n\nLocation:\n\n* Jalandhar, Punjab (Jalandhar) (Required)\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
     {
       "company": "Decagon Software",
       "title": "Full Stack Developer Intern",
