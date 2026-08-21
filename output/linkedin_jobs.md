@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sakalesh Roles
-*Last updated: 2026-08-20 23:46 UTC*
+*Last updated: 2026-08-21 02:05 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4454163246/) — Midbrains Technologies
+- 📍 **Location:** Pune/Pimpri-Chinchwad Area
+- 🕒 **Posted:** 2026-08-21
