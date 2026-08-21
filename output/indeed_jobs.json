@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21 02:13 UTC",
-  "total": 6,
+  "scraped_at": "2026-08-21 03:31 UTC",
+  "total": 5,
   "new_count": 0,
   "jobs": [
     {
@@ -90,24 +90,6 @@
       "job_type": "internship",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Unknown",
-      "title": "Backend Developer Intern",
-      "location": "TN, IN",
-      "url": "https://in.indeed.com/viewjob?jk=13cf9e28211fa4e1",
-      "direct_url": "http://in.indeed.com/job/backend-developer-intern-13cf9e28211fa4e1",
-      "company_url": "https://in.indeed.comNone",
-      "date_posted": "2026-08-20",
-      "description": "Join **archintX** and gain hands\\-on experience building reliable backend systems and APIs for an AI\\-powered education and career platform.\n\nWhat You’ll Work On\n\n* Develop and maintain backend applications using **Python and Django**.\n* Build and integrate **REST APIs** using Django REST Framework.\n* Work with databases such as **PostgreSQL**\n* Write clean, reusable, and efficient backend code.\n* Debug issues, fix bugs, and improve application performance.\n* Implement authentication, data validation, and secure API practices.\n* Collaborate with frontend, mobile, product, and QA teams.\n* Use **Git and GitHub** for version control and collaborative development.\n\nWhat You’ll Learn\n\n* Real\\-world **Python and Django backend development**.\n* REST API development using Django REST Framework.\n* Database design and data management.\n* Authentication, security, testing, and debugging.\n* Backend performance and scalable application development.\n* Modern development tools and workflows.\n* How backend systems power AI\\-driven products and platforms.\n\nWho We’re Looking For\n\nStudents interested in **Python, Django, Backend Development, REST APIs, databases, and problem\\-solving**. Prior project experience is a plus, but strong programming fundamentals and willingness to learn are most important.\n\n**Your mission:** Build secure, scalable, and reliable Django\\-powered backend solutions that power the archintX learning and career platform.\n\nPay: Up to ₹5,000\\.00 per month\n\nWork Location: Hybrid remote in Chengalpattu, Chennai, Tamil Nadu",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime, internship",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "emails": "",
       "ats": "Indeed"
     }
