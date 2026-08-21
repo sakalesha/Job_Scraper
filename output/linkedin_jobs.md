@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Sakalesh Roles
-*Last updated: 2026-08-21 17:52 UTC*
+*Last updated: 2026-08-21 19:03 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Web Development Intern](https://www.linkedin.com/jobs/view/4457392275/) — Cloutgency
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 🕒 **Posted:** 2026-08-21
+
+### [Full Stack Web Developer Intern](https://www.linkedin.com/jobs/view/4456260844/) — Zenithbyte
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-08-21
