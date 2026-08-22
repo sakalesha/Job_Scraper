@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22 17:15 UTC",
-  "total": 52,
+  "scraped_at": "2026-08-22 18:20 UTC",
+  "total": 53,
   "new_count": 1,
   "jobs": [
     {
@@ -158,20 +158,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Atoms",
-      "title": "Software Engineer Intern - Winter 2027",
-      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "date_posted": "2026-08-06T20:53:44.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
-      "salary": "$146k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Roblox",
       "title": "[Summer 2027] Software Engineer Intern",
       "location": "San Mateo, California, United States",
@@ -183,6 +169,20 @@
       "job_type": "Full Time, Internship",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Atoms",
+      "title": "Software Engineer Intern - Winter 2027",
+      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "date_posted": "2026-08-06T20:53:44.000Z",
+      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
+      "salary": "$146k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -676,6 +676,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Advanced Micro Devices, Inc",
+      "title": "2027 Undergrad Software Engineer Intern/Co-op",
+      "location": "Santa Clara or San Jose",
+      "url": "https://careers.amd.com/jobs/90891?lang=en-us",
+      "direct_url": "https://careers.amd.com/jobs/90891?lang=en-us",
+      "date_posted": "2026-08-20T23:31:06.000Z",
+      "description": "Currently enrolled in a US university undergraduate program in computer engineering, electrical engineering, computer science, or a related discipline; relevant software skills are encouraged.",
+      "salary": "$64k–$96k/yr",
+      "job_type": "Internship, Temporary",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Foundation Finance Company, LLC",
       "title": "Full Stack Developer Intern",
       "location": "Rothschild, Wisconsin, United States",
@@ -734,17 +748,17 @@
   ],
   "new_jobs": [
     {
-      "company": "Toyota of Cedar Park Keating LLC",
-      "title": "Software Developer Intern",
-      "location": "Cedar Park, Texas, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4442958",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4442958",
-      "date_posted": "2026-08-21T22:00:49.000Z",
-      "description": "College student with software development background; full-stack web development, JavaScript, HTML, CSS, SQL, databases, APIs, integrations, Git/GitHub, version control, and basic cloud architecture required. Driver's license required.",
-      "salary": "$52k–$73k/yr",
-      "job_type": "Part Time, Internship",
+      "company": "Advanced Micro Devices, Inc",
+      "title": "2027 Undergrad Software Engineer Intern/Co-op",
+      "location": "Santa Clara or San Jose",
+      "url": "https://careers.amd.com/jobs/90891?lang=en-us",
+      "direct_url": "https://careers.amd.com/jobs/90891?lang=en-us",
+      "date_posted": "2026-08-20T23:31:06.000Z",
+      "description": "Currently enrolled in a US university undergraduate program in computer engineering, electrical engineering, computer science, or a related discipline; relevant software skills are encouraged.",
+      "salary": "$64k–$96k/yr",
+      "job_type": "Internship, Temporary",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
