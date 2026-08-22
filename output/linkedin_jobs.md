@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sakalesh Roles
-*Last updated: 2026-08-22 04:03 UTC*
+*Last updated: 2026-08-22 15:43 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4456654340/) — Afame Technologies
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-08-22
