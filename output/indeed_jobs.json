@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-08-22 15:58 UTC",
-  "total": 4,
-  "new_count": 0,
+  "scraped_at": "2026-08-22 16:52 UTC",
+  "total": 5,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Unknown",
+      "title": "Web Developer Intern",
+      "location": "Remote, IN",
+      "url": "https://in.indeed.com/viewjob?jk=f309abf819f43c22",
+      "direct_url": "http://in.indeed.com/job/web-developer-intern-f309abf819f43c22",
+      "company_url": "https://in.indeed.comNone",
+      "date_posted": "2026-08-22",
+      "description": "Job Description – Junior Web Developer (Fresher/Intern)\n\n1\\. We are looking for enthusiastic Web Developer Freshers/Interns to join our development team.\n\n2\\. Candidates should have a basic understanding of PHP, Laravel, MERN Stack, or Angular.\n\n3\\. Work on developing and maintaining websites, web applications, software, and admin panels.\n\n4\\. Develop functional modules using CRUD operations and database integration.\n\n5\\. Design and integrate REST APIs and third\\-party APIs into web applications.\n\n6\\. Work with databases such as MySQL/MongoDB and perform basic queries and data management.\n\n7\\. Collaborate with senior developers to understand requirements and implement features.\n\n8\\. Debug, test, and fix issues to ensure application performance and reliability.\n\n9\\. Freshers with good programming fundamentals, problem\\-solving skills, and a willingness to learn are encouraged to apply.\n\n10\\. Internship/Fresher candidates with practical knowledge or academic projects are welcome.\n\nPay: ₹5,000\\.00 \\- ₹10,000\\.00 per month\n\nBenefits:\n\n* Flexible schedule\n\nWork Location: Remote",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "parttime, internship",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    },
     {
       "company": "COFA Studio - Design Agency",
       "title": "Full Stack Developer Internship",
@@ -76,5 +94,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Unknown",
+      "title": "Web Developer Intern",
+      "location": "Remote, IN",
+      "url": "https://in.indeed.com/viewjob?jk=f309abf819f43c22",
+      "direct_url": "http://in.indeed.com/job/web-developer-intern-f309abf819f43c22",
+      "company_url": "https://in.indeed.comNone",
+      "date_posted": "2026-08-22",
+      "description": "Job Description – Junior Web Developer (Fresher/Intern)\n\n1\\. We are looking for enthusiastic Web Developer Freshers/Interns to join our development team.\n\n2\\. Candidates should have a basic understanding of PHP, Laravel, MERN Stack, or Angular.\n\n3\\. Work on developing and maintaining websites, web applications, software, and admin panels.\n\n4\\. Develop functional modules using CRUD operations and database integration.\n\n5\\. Design and integrate REST APIs and third\\-party APIs into web applications.\n\n6\\. Work with databases such as MySQL/MongoDB and perform basic queries and data management.\n\n7\\. Collaborate with senior developers to understand requirements and implement features.\n\n8\\. Debug, test, and fix issues to ensure application performance and reliability.\n\n9\\. Freshers with good programming fundamentals, problem\\-solving skills, and a willingness to learn are encouraged to apply.\n\n10\\. Internship/Fresher candidates with practical knowledge or academic projects are welcome.\n\nPay: ₹5,000\\.00 \\- ₹10,000\\.00 per month\n\nBenefits:\n\n* Flexible schedule\n\nWork Location: Remote",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "parttime, internship",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
