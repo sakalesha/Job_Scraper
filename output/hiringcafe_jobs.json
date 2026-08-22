@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 23:17 UTC",
-  "total": 52,
-  "new_count": 0,
+  "scraped_at": "2026-08-22 00:54 UTC",
+  "total": 54,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Point72",
@@ -242,6 +242,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Lab37",
+      "title": "Robotics Software Engineer Intern",
+      "location": "Los Angeles or Pittsburgh",
+      "url": "https://job-boards.greenhouse.io/lab37/jobs/8695475002",
+      "direct_url": "https://job-boards.greenhouse.io/lab37/jobs/8695475002",
+      "date_posted": "2026-08-21T21:36:22.000Z",
+      "description": "Currently pursuing a bachelor's or master's degree in a technical field; programming experience in C++, Go, Python, Java, or Rust; software engineering fundamentals and project experience required.",
+      "salary": "$52k–$73k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Bear Robotics",
       "title": "Software Engineering Intern, Developer Productivity",
       "location": "Redwood City, California, United States",
@@ -281,6 +295,20 @@
       "job_type": "Internship, Temporary",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Brunswick",
+      "title": "Software Engineering Intern",
+      "location": "Tulsa, Oklahoma, United States",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321",
+      "direct_url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321",
+      "date_posted": "2026-08-21T00:00:00.000Z",
+      "description": "Engineering student with 80+ credits toward a bachelor's degree in electrical engineering, software engineering, computer science, or computer engineering; strong C/C++ and embedded development experience required.",
+      "salary": "$37k–$56k/yr",
+      "job_type": "Full Time, Internship, Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -391,20 +419,6 @@
       "description": "Current bachelor's or master's student in a computing-related field; JavaScript, HTML, CSS, web development, and software lifecycle knowledge required. 3.0 GPA preferred; U.S. work authorization required.",
       "salary": "",
       "job_type": "Part Time, Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Utah State Legislature",
-      "title": "Legislative Software Development Intern",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2175?c=utdgohcm",
-      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2175?c=utdgohcm",
-      "date_posted": "2026-08-14T00:00:00.000Z",
-      "description": "Basic software development lifecycle, QA, and web development knowledge; familiarity with Java, JavaScript, HTML, CSS, Spring, React, and preferably JIRA; strong problem-solving, communication, teamwork, and learning skills.",
-      "salary": "$42k/yr",
-      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -648,6 +662,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Utah State Legislature",
+      "title": "Legislative Software Development Intern",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2175?c=utdgohcm",
+      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2175?c=utdgohcm",
+      "date_posted": "2026-08-14T00:00:00.000Z",
+      "description": "Basic software development lifecycle, QA, and web development knowledge; familiarity with Java, JavaScript, HTML, CSS, Spring, React, and preferably JIRA; strong problem-solving, communication, teamwork, and learning skills.",
+      "salary": "$42k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "MRSL",
       "title": "Software Engineer Intern | Fall and Spring | Autonomous Intelligent Sensing for Space Applications  (FL, SARASOTA)",
       "location": "Sarasota, Florida, United States",
@@ -732,5 +760,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Lab37",
+      "title": "Robotics Software Engineer Intern",
+      "location": "Los Angeles or Pittsburgh",
+      "url": "https://job-boards.greenhouse.io/lab37/jobs/8695475002",
+      "direct_url": "https://job-boards.greenhouse.io/lab37/jobs/8695475002",
+      "date_posted": "2026-08-21T21:36:22.000Z",
+      "description": "Currently pursuing a bachelor's or master's degree in a technical field; programming experience in C++, Go, Python, Java, or Rust; software engineering fundamentals and project experience required.",
+      "salary": "$52k–$73k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Brunswick",
+      "title": "Software Engineering Intern",
+      "location": "Tulsa, Oklahoma, United States",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321",
+      "direct_url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321",
+      "date_posted": "2026-08-21T00:00:00.000Z",
+      "description": "Engineering student with 80+ credits toward a bachelor's degree in electrical engineering, software engineering, computer science, or computer engineering; strong C/C++ and embedded development experience required.",
+      "salary": "$37k–$56k/yr",
+      "job_type": "Full Time, Internship, Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
