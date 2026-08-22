@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 02:15 UTC",
-  "total": 54,
-  "new_count": 1,
+  "scraped_at": "2026-08-22 03:37 UTC",
+  "total": 52,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Fullbay",
@@ -158,20 +158,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Atoms",
-      "title": "Software Engineer Intern - Winter 2027",
-      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "date_posted": "2026-08-06T20:53:44.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
-      "salary": "$146k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Roblox",
       "title": "[Summer 2027] Software Engineer Intern",
       "location": "San Mateo, California, United States",
@@ -183,6 +169,20 @@
       "job_type": "Full Time, Internship",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Atoms",
+      "title": "Software Engineer Intern - Winter 2027",
+      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "date_posted": "2026-08-06T20:53:44.000Z",
+      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
+      "salary": "$146k/yr",
+      "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -662,20 +662,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "DMS International",
-      "title": "Blockchain Application Developer Intern",
-      "location": "Silver Spring, Maryland, United States",
-      "url": "https://dms-international.breezy.hr/p/3bc895c156a8-blockchain-application-developer-intern",
-      "direct_url": "https://dms-international.breezy.hr/p/3bc895c156a8-blockchain-application-developer-intern",
-      "date_posted": "2026-08-20T15:04:06.047Z",
-      "description": "Basic software development knowledge; familiarity with programming, blockchain, Web3, smart contracts, and web technologies; analytical and security skills; pursuing or recently completed a technical bachelor's or master's degree.",
-      "salary": "",
-      "job_type": "Part Time, Internship",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "MRSL",
       "title": "Software Engineer Intern | Fall and Spring | Autonomous Intelligent Sensing for Space Applications  (FL, SARASOTA)",
       "location": "Sarasota, Florida, United States",
@@ -687,20 +673,6 @@
       "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Advanced Micro Devices, Inc",
-      "title": "2027 Undergrad Software Engineer Intern/Co-op",
-      "location": "Santa Clara or San Jose",
-      "url": "https://careers.amd.com/jobs/90891?lang=en-us",
-      "direct_url": "https://careers.amd.com/jobs/90891?lang=en-us",
-      "date_posted": "2026-08-20T23:31:06.000Z",
-      "description": "Currently enrolled in a US university undergraduate program in computer engineering, electrical engineering, computer science, or a related discipline; relevant software skills are encouraged.",
-      "salary": "$64k–$96k/yr",
-      "job_type": "Internship, Temporary",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -760,20 +732,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Fullbay",
-      "title": "Software Engineer Intern ",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://fullbay.bamboohr.com/careers/131",
-      "direct_url": "https://fullbay.bamboohr.com/careers/131",
-      "date_posted": "2026-08-21T00:00:00.000Z",
-      "description": "Pursuing a bachelor's degree in computer science or related field; software development experience preferred. Requires coding, software design, testing, teamwork, problem-solving, and cloud infrastructure familiarity.",
-      "salary": "$52k/yr",
-      "job_type": "Part Time, Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
