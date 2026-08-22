@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 04:26 UTC",
+  "scraped_at": "2026-08-22 17:15 UTC",
   "total": 52,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Fullbay",
@@ -41,6 +41,20 @@
       "description": "Pursuing a bachelor's or master's degree in computer science, engineering, mathematics, or quantitative finance; Python, SQL, programming fundamentals, and problem-solving skills required.",
       "salary": "$50/yr",
       "job_type": "Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Toyota of Cedar Park Keating LLC",
+      "title": "Software Developer Intern",
+      "location": "Cedar Park, Texas, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4442958",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4442958",
+      "date_posted": "2026-08-21T22:00:49.000Z",
+      "description": "College student with software development background; full-stack web development, JavaScript, HTML, CSS, SQL, databases, APIs, integrations, Git/GitHub, version control, and basic cloud architecture required. Driver's license required.",
+      "salary": "$52k–$73k/yr",
+      "job_type": "Part Time, Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -130,20 +144,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Open Roles",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "New York City, New York, United States",
-      "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
-      "direct_url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
-      "date_posted": "2026-08-07T17:08:37.000Z",
-      "description": "Computer science, CIS, mathematics, or related degree completed or in progress; Python, C++, and C# proficiency; algorithms, data structures, analytical, collaboration, and software development skills.",
-      "salary": "$52k/yr",
-      "job_type": "Internship, Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Zipline",
       "title": "Enterprise Systems Software Engineer Intern (Spring 2027)",
       "location": "South San Francisco, California, United States",
@@ -153,6 +153,20 @@
       "description": "Software engineering internship requiring systems design, data modeling, stakeholder collaboration, operational reliability, and experience delivering measurable software impact. Regular on-site work and travel required.",
       "salary": "$112k/yr",
       "job_type": "Full Time, Internship, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Atoms",
+      "title": "Software Engineer Intern - Winter 2027",
+      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "date_posted": "2026-08-06T20:53:44.000Z",
+      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
+      "salary": "$146k/yr",
+      "job_type": "Internship",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -169,20 +183,6 @@
       "job_type": "Full Time, Internship",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Atoms",
-      "title": "Software Engineer Intern - Winter 2027",
-      "location": "New York City or Seattle or Los Angeles or Mountain View or San Francisco",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "direct_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "date_posted": "2026-08-06T20:53:44.000Z",
-      "description": "Pursuing a bachelor's or master's in computer science, engineering, or a related field; 3.7 GPA minimum, introductory computer science coursework, and advanced programming experience.",
-      "salary": "$146k/yr",
-      "job_type": "Internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -732,5 +732,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Toyota of Cedar Park Keating LLC",
+      "title": "Software Developer Intern",
+      "location": "Cedar Park, Texas, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4442958",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4442958",
+      "date_posted": "2026-08-21T22:00:49.000Z",
+      "description": "College student with software development background; full-stack web development, JavaScript, HTML, CSS, SQL, databases, APIs, integrations, Git/GitHub, version control, and basic cloud architecture required. Driver's license required.",
+      "salary": "$52k–$73k/yr",
+      "job_type": "Part Time, Internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
